@@ -1,0 +1,164 @@
+{
+  "personal_info": {
+    "name": "Lee Roy Pinto",
+    "email": "leroy.pinto84@gmail.com",
+    "phone": "0447084032",
+    "location": "Gordon, Sydney, NSW, Australia",
+    "linkedin_url": "https://linkedin.com/in/pintoleroy",
+    "github_url": "",
+    "date_of_birth": "31/12/1984",
+    "citizenship": "Australian",
+    "marital_status": "Married"
+  },
+  "skills": {
+    "technical": [
+      "AI/ML", "Multi-agent AI", "Claude", "OpenAI", "LangGraph", "RAG", "GenUI", "LLM",
+      "AWS", "GCP", "Lambda", "Serverless", "Python", "JavaScript", "Java", "C#", ".NET",
+      "React", "Django", "Spring", "Docker", "Kubernetes", "SQL", "MongoDB", "PostgreSQL",
+      "Git", "CI/CD", "Agile", "Scrum", "TensorFlow", "PyTorch", "Data Platforms",
+      "Analytics", "AdTech", "MarTech", "DoubleClick", "Google Analytics", "Cloud Computing",
+      "Enterprise Architecture", "Microservices", "API Development", "Web Scraping"
+    ],
+    "soft": [
+      "Leadership", "Strategic Partnerships", "Entrepreneurship", "Digital Strategy",
+      "Fundraising", "Team Building", "Business Development", "Product Management",
+      "P&L Management", "Board Management", "Investor Relations", "Public Speaking",
+      "Negotiation", "Cross-functional Collaboration", "Change Management"
+    ],
+    "languages": ["English"],
+    "certifications": [
+      "AWS Certified Cloud Practitioner",
+      "Google Analytics Individual Qualification",
+      "Google Digital Sales Certification",
+      "Ektron Certified Developer",
+      "High Performance Collaboration, Leadership, Teamwork, and Negotiation"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Co-Founder / Director",
+      "company": "Ringkas",
+      "location": "Singapore",
+      "start_date": "01/2022",
+      "end_date": "Present",
+      "description": "Built enterprise-grade AI mortgage infrastructure for banks & borrowers. Raised $11.5M USD, partnered with 32 financial institutions across Asia.",
+      "achievements": [
+        "Raised $11.5M USD from institutional investors in US, Korea, Singapore",
+        "Built multi-agent AI architecture on AWS/GCP using Claude, OpenAI, LangGraph",
+        "Achieved $3M USD ARR and $700M USD annualized mortgage origination",
+        "Scaled team to 110 personnel across multiple departments",
+        "Built offshore R&D center of excellence in Vietnam",
+        "Closed enterprise clients including MUFG, OCBC, UOB"
+      ]
+    },
+    {
+      "title": "Head of Digital Natives",
+      "company": "Amazon Web Services",
+      "location": "Indonesia & Singapore",
+      "start_date": "11/2020",
+      "end_date": "05/2022",
+      "description": "Led business development, technology teams, and partnerships for South East Asia's Soonicorns and Unicorns.",
+      "achievements": [
+        "Managed $500M USD revenue business",
+        "Advised customers on digital and cloud strategy",
+        "Built strategic partnerships with Tokopedia, Shopee, Gojek, etc.",
+        "Managed high-performing teams across multiple strategic opportunities"
+      ]
+    },
+    {
+      "title": "President Director & CEO",
+      "company": "CT Corp Digital",
+      "location": "Singapore & Indonesia",
+      "start_date": "01/2018",
+      "end_date": "10/2020",
+      "description": "Launched corporate digital venture, built new businesses from ideation to launch.",
+      "achievements": [
+        "Built team of 200 people across digital initiatives",
+        "Created digital bank, payment, wealth management businesses",
+        "Led 3 M&As (beautynesia, femaledaily, pergi.com)",
+        "Built omnichannel eCommerce for Transmart Carrefour",
+        "Reported directly to Chairman of CT Corp"
+      ]
+    },
+    {
+      "title": "General Manager & Head of Google Marketing Platforms for APAC",
+      "company": "Google",
+      "location": "Singapore",
+      "start_date": "08/2017",
+      "end_date": "02/2018",
+      "description": "Led Google Marketing Platforms business across APAC, enabling $4B USD revenue.",
+      "achievements": [
+        "Managed DoubleClick and Google Analytics 360 Suite",
+        "Built APAC strategic priorities and 3-year vision",
+        "Lead end-to-end consultative strategic selling",
+        "Grew business with xxx% growth rates"
+      ]
+    },
+    {
+      "title": "Head of Data Platforms - APAC",
+      "company": "Google",
+      "location": "Singapore",
+      "start_date": "03/2016",
+      "end_date": "08/2017",
+      "description": "Led sales teams to digitize top 1000 advertisers through Asia Pacific.",
+      "achievements": [
+        "Launched Google Analytics 360 Suite for APAC",
+        "Built go-to-market plans across SEA & India",
+        "Keynote speaker at 35 industry events in 2016"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Executive MBA",
+      "field": "Technology & Intrapreneurship",
+      "institution": "Australian Graduate School of Management, UNSW",
+      "graduation_year": "2020",
+      "gpa": ""
+    },
+    {
+      "degree": "MBA",
+      "field": "Global Business (Google MBA Program)",
+      "institution": "Duke University & Google",
+      "graduation_year": "2017",
+      "gpa": ""
+    },
+    {
+      "degree": "Bachelor of Engineering",
+      "field": "Computer Systems Engineering",
+      "institution": "University of Technology Sydney",
+      "graduation_year": "2007",
+      "gpa": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "Multi-Agent AI Platform at Ringkas",
+      "description": "Built multi-agentic AI skill layer on Claude leveraging agent skills & Claude code CLI, OpenAI & LangGraph for multi-agent orchestration",
+      "technologies": ["Claude", "OpenAI", "LangGraph", "RAG", "GenUI", "AWS", "GCP"],
+      "url": ""
+    }
+  ],
+  "summary": "Seasoned digital leader with 20+ years experience building and scaling businesses across North America and APAC. Co-Founder/Director at Ringkas building AI fintech infrastructure. Former Head of Digital Natives at AWS and senior leadership at Google. Expertise in AI/ML, cloud computing, digital strategy, and building high-performing teams. Raised $11.5M USD in funding and achieved $3M ARR with mortgage origination of $700M USD annualized.",
+  "preferences": {
+    "desired_roles": [
+      "Chief Technology Officer",
+      "VP of Engineering", 
+      "Head of AI/ML",
+      "Technical Co-Founder",
+      "VP of Product & Engineering",
+      "Chief Product Officer",
+      "Head of Digital Innovation",
+      "GM/Director of Engineering"
+    ],
+    "locations": ["Sydney", "Singapore", "San Francisco", "Remote", "Hybrid"],
+    "remote_preference": "hybrid",
+    "salary_min": 350000,
+    "salary_max": 600000,
+    "company_size": ["startup", "scaleup", "enterprise"],
+    "industries": ["AI/ML", "Fintech", "Cloud Computing", "Enterprise Software", "Digital Transformation"],
+    "job_type": "full-time",
+    "willing_to_relocate": true,
+    "visa_sponsorship_needed": false
+  }
+}

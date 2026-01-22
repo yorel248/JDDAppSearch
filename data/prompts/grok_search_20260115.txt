@@ -1,0 +1,27 @@
+
+=== COPY THIS PROMPT TO GROK ===
+
+Find CTO VP Engineering Head of AI positions in Sydney Singapore Remote from these sources:
+- X/Twitter posts with #hiring #CTOVPEngineeringHeadofAI
+- Hacker News "Who's Hiring" threads (last 2 months)
+- AngelList startup jobs
+- Y Combinator company job boards
+- Tech community forums and Slack groups
+- Reddit r/forhire and relevant subreddits
+- Remote-first companies if applicable
+
+Include:
+Company | Role | Location | Apply URL | Posted Date | Source
+
+Focus on:
+- Jobs posted in last 7 days
+- Startups and companies not on mainstream job boards
+- Direct application links (skip aggregators)
+- Include salary info if mentioned
+
+Format as a structured list for easy parsing.
+
+=== END GROK PROMPT ===
+
+After getting Grok results, save them to: ./data/grok_results.txt
+Then run the import prompt to process them.

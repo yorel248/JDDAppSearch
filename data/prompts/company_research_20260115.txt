@@ -1,0 +1,55 @@
+
+Research these companies and provide detailed information:
+
+Companies to research:
+- SaaS Security Company
+- Cloud Infrastructure
+- Global Technology Services
+- Fintech Startup
+
+For each company, find:
+1. Company Overview
+   - Mission and values
+   - Industry and market position
+   - Size (employees and revenue if public)
+   - Headquarters and office locations
+   - Year founded
+
+2. Culture & Work Environment
+   - Work-life balance reputation
+   - Employee reviews summary (from Glassdoor/Indeed)
+   - Diversity and inclusion initiatives
+   - Remote work policies
+   - Benefits and perks
+
+3. Recent Developments
+   - Latest news (last 6 months)
+   - Product launches or major projects
+   - Funding rounds or acquisitions
+   - Layoffs or hiring surges
+
+4. Technology Stack (for tech companies)
+   - Main technologies used
+   - Engineering culture
+   - Open source contributions
+
+5. Growth & Stability
+   - Financial health indicators
+   - Growth trajectory
+   - Market challenges
+
+Format as JSON and save to: ./data/company_research.json
+
+Example format:
+{
+  "company_name": {
+    "overview": {...},
+    "culture": {...},
+    "recent_news": [...],
+    "tech_stack": [...],
+    "growth_indicators": {...},
+    "pros": [...],
+    "cons": [...],
+    "overall_rating": 4.2
+  }
+}

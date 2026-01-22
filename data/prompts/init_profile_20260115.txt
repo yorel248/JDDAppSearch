@@ -1,0 +1,55 @@
+
+Please analyze the resume and LinkedIn profile in the ./profile directory and extract structured information.
+
+Read these files:
+- ./profile/resume.pdf (or .docx, .txt)
+- ./profile/linkedin.pdf (if available)
+
+Extract and return as JSON:
+{
+  "personal_info": {
+    "name": "Full Name",
+    "email": "email@example.com",
+    "phone": "phone number",
+    "location": "City, State/Country",
+    "linkedin_url": "linkedin.com/in/...",
+    "github_url": "github.com/..."
+  },
+  "skills": {
+    "technical": ["skill1", "skill2", ...],
+    "soft": ["skill1", "skill2", ...],
+    "languages": ["English", ...],
+    "certifications": ["cert1", ...]
+  },
+  "experience": [
+    {
+      "title": "Job Title",
+      "company": "Company Name",
+      "location": "City, State",
+      "start_date": "MM/YYYY",
+      "end_date": "MM/YYYY or Present",
+      "description": "Role description",
+      "achievements": ["achievement1", "achievement2"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Degree Type",
+      "field": "Field of Study",
+      "institution": "University Name",
+      "graduation_year": "YYYY",
+      "gpa": "X.XX"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project Name",
+      "description": "Project description",
+      "technologies": ["tech1", "tech2"],
+      "url": "github.com/..."
+    }
+  ],
+  "summary": "A 2-3 sentence professional summary"
+}
+
+Save the extracted data to: ./data/profile_extracted.json

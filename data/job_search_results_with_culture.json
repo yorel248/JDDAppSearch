@@ -1,0 +1,327 @@
+[
+  {
+    "company": "Atlassian",
+    "title": "VP of Engineering - Platform",
+    "location": "Sydney, NSW (Hybrid - Team Anywhere)",
+    "url": "https://www.atlassian.com/company/careers/all-jobs",
+    "salary_min": 400000,
+    "salary_max": 550000,
+    "requirements": ["15+ years engineering leadership", "Platform architecture experience", "Distributed teams management", "Scale-up experience", "Cloud infrastructure"],
+    "posted_date": "2026-01-10",
+    "job_type": "full-time",
+    "company_size": "10000+",
+    "work_life_balance_rating": 5,
+    "description_snippet": "Lead our platform engineering teams to build the infrastructure that powers millions of users globally. Drive technical strategy and innovation.",
+    "source": "Atlassian Careers",
+    "glassdoor_rating": {
+      "overall_rating": 3.1,
+      "culture_values": 2.8,
+      "work_life_balance": 3.1,
+      "would_recommend": "44%",
+      "total_reviews": 3310,
+      "culture_highlights": [
+        "Great culture, competitive pay, good work/life balance",
+        "Fully remote and great at async working",
+        "Collaborative work environment"
+      ],
+      "culture_concerns": [
+        "PIP factory has created a culture of fear",
+        "Executive leadership has lost their way",
+        "Recent cultural changes impacting satisfaction"
+      ]
+    }
+  },
+  {
+    "company": "Canva",
+    "title": "Head of AI/ML Engineering",
+    "location": "Sydney, NSW (Flexible Hybrid)",
+    "url": "https://www.canva.com/careers/",
+    "salary_min": 450000,
+    "salary_max": 600000,
+    "requirements": ["AI/ML expertise", "10+ years experience", "Team leadership", "Product mindset", "Python/TensorFlow"],
+    "posted_date": "2026-01-08",
+    "job_type": "full-time",
+    "company_size": "4000+",
+    "work_life_balance_rating": 5,
+    "description_snippet": "Drive AI innovation at scale for 185 million monthly users. Lead our AI/ML engineering teams in Sydney.",
+    "source": "Canva Careers",
+    "glassdoor_rating": {
+      "overall_rating": 4.0,
+      "culture_values": 3.9,
+      "work_life_balance": 3.9,
+      "would_recommend": "77%",
+      "total_reviews": 823,
+      "culture_highlights": [
+        "Incredibly inclusive environment",
+        "Great work life balance with flexibility",
+        "People are great, awesome team culture",
+        "Free food and great work culture"
+      ],
+      "culture_concerns": [
+        "Culture has gone downhill since hiring external managers",
+        "Politics, lead through fear & threat",
+        "Some redundancies in 2025"
+      ]
+    }
+  },
+  {
+    "company": "Commonwealth Bank",
+    "title": "Executive Manager - Digital Engineering",
+    "location": "Sydney, NSW (3 days office)",
+    "url": "https://www.commbank.com.au/about-us/careers/technology.html",
+    "salary_min": 380000,
+    "salary_max": 480000,
+    "requirements": ["Digital transformation", "15+ years experience", "Banking technology", "Agile leadership", "Cloud platforms"],
+    "posted_date": "2026-01-12",
+    "job_type": "full-time",
+    "company_size": "50000+",
+    "work_life_balance_rating": 4,
+    "description_snippet": "Lead digital engineering transformation across CBA's technology stack. Drive innovation in banking technology.",
+    "source": "CBA Careers",
+    "glassdoor_rating": {
+      "overall_rating": 3.7,
+      "culture_values": 3.5,
+      "work_life_balance": 3.8,
+      "would_recommend": "67%",
+      "total_reviews": 7764,
+      "culture_highlights": [
+        "Wonderful work life balance",
+        "Firm believer of flexible working",
+        "Great Culture, Wonderful Team",
+        "Everyone is very approachable"
+      ],
+      "culture_concerns": [
+        "Used to have great culture but now terrible",
+        "Rapidly losing integrity and culture",
+        "Concerns about layoffs in 2025"
+      ]
+    }
+  },
+  {
+    "company": "SafetyCulture",
+    "title": "CTO - Chief Technology Officer",
+    "location": "Sydney, NSW (Flexible Working)",
+    "url": "https://safetyculture.com/careers/",
+    "salary_min": 500000,
+    "salary_max": 650000,
+    "requirements": ["CTO experience", "SaaS platforms", "Global scale", "Team building", "Product strategy"],
+    "posted_date": "2026-01-05",
+    "job_type": "full-time",
+    "company_size": "2000+",
+    "work_life_balance_rating": 4,
+    "description_snippet": "Join as CTO to lead technology strategy for global safety platform serving 85,000+ organizations.",
+    "source": "SafetyCulture",
+    "glassdoor_rating": {
+      "overall_rating": 3.8,
+      "culture_values": 4.1,
+      "work_life_balance": 3.9,
+      "work_life_balance_sydney": 3.8,
+      "would_recommend": "73%",
+      "total_reviews": 308,
+      "culture_highlights": [
+        "People living and breathing company values",
+        "Hybrid work with flexible arrangements",
+        "Supportive of work life balance"
+      ],
+      "culture_concerns": [
+        "Fast paced culture can affect work-life balance",
+        "Clicky culture that feels like high school",
+        "Startup environment not for work-life balance"
+      ]
+    }
+  },
+  {
+    "company": "Airwallex",
+    "title": "VP Engineering - Payments",
+    "location": "Sydney, NSW (3 days office)",
+    "url": "https://careers.airwallex.com/jobs/",
+    "salary_min": 420000,
+    "salary_max": 550000,
+    "requirements": ["Fintech experience", "Payments systems", "12+ years experience", "Global teams", "Regulatory knowledge"],
+    "posted_date": "2026-01-11",
+    "job_type": "full-time",
+    "company_size": "1500+",
+    "work_life_balance_rating": 4,
+    "description_snippet": "Lead engineering for cross-border payments processing $100B+ annually across 130 countries.",
+    "source": "Airwallex Careers",
+    "glassdoor_rating": {
+      "overall_rating": 3.7,
+      "culture_values": 3.5,
+      "work_life_balance": 3.6,
+      "melbourne_rating": 4.3,
+      "would_recommend": "70%",
+      "total_reviews": 474,
+      "culture_highlights": [
+        "Enjoyed time and felt personal growth",
+        "Melbourne office has excellent rating (4.3/5)"
+      ],
+      "culture_concerns": [
+        "Toxic culture dominated by non-technical managers",
+        "Engineers treated second class",
+        "Constant turnover and multiple reorgs",
+        "Culture incompatible with Australian values"
+      ]
+    }
+  },
+  {
+    "company": "Westpac",
+    "title": "Head of AI & Data Engineering",
+    "location": "Sydney, NSW (Hybrid)",
+    "url": "https://www.westpac.com.au/about-westpac/careers/",
+    "salary_min": 400000,
+    "salary_max": 500000,
+    "requirements": ["AI/ML leadership", "Data platforms", "Banking experience", "Strategic thinking", "Team management"],
+    "posted_date": "2026-01-09",
+    "job_type": "full-time",
+    "company_size": "40000+",
+    "work_life_balance_rating": 4,
+    "description_snippet": "Lead AI and data transformation initiatives under Dr Andrew McMullan's new data & AI division.",
+    "source": "Westpac",
+    "glassdoor_rating": {
+      "overall_rating": 3.7,
+      "culture_values": 3.5,
+      "work_life_balance": 3.8,
+      "would_recommend": "69%",
+      "total_reviews": 431,
+      "culture_highlights": [
+        "Good work life balance and good for people with young kids",
+        "Great team, supportive management",
+        "Company wants to live by their values",
+        "10 years experience shows great culture"
+      ],
+      "culture_concerns": [
+        "Some cultural changes over time",
+        "Large bank bureaucracy"
+      ]
+    }
+  },
+  {
+    "company": "ANZ Bank",
+    "title": "General Manager - Technology Strategy",
+    "location": "Sydney, NSW (Flexible Hybrid)",
+    "url": "https://www.anz.com.au/careers/",
+    "salary_min": 450000,
+    "salary_max": 550000,
+    "requirements": ["Strategic leadership", "Digital banking", "15+ years experience", "Transformation", "Stakeholder management"],
+    "posted_date": "2026-01-07",
+    "job_type": "full-time",
+    "company_size": "40000+",
+    "work_life_balance_rating": 4,
+    "description_snippet": "Drive technology strategy and digital transformation across ANZ's retail and commercial banking.",
+    "source": "ANZ",
+    "glassdoor_rating": {
+      "overall_rating": 3.8,
+      "culture_values": 3.8,
+      "work_life_balance": 4.0,
+      "would_recommend": "72%",
+      "total_reviews": 500,
+      "culture_highlights": [
+        "Top 10% work-life balance rating by employees",
+        "Decent work/life balance, less intense than other banks",
+        "Work culture promotes work life balance",
+        "Flexible with work locations"
+      ],
+      "culture_concerns": [
+        "Large bank processes",
+        "Typical corporate environment"
+      ]
+    }
+  },
+  {
+    "company": "WiseTech Global",
+    "title": "VP of Product Engineering",
+    "location": "Sydney, NSW (2 days office)",
+    "url": "https://www.wisetechglobal.com/careers/",
+    "salary_min": 380000,
+    "salary_max": 480000,
+    "requirements": ["Logistics software", "Product leadership", "B2B SaaS", "Global teams", "Engineering excellence"],
+    "posted_date": "2026-01-13",
+    "job_type": "full-time",
+    "company_size": "2000+",
+    "work_life_balance_rating": 3,
+    "description_snippet": "Lead product engineering for global logistics software platform used by 17,000+ logistics companies.",
+    "source": "WiseTech",
+    "glassdoor_rating": {
+      "overall_rating": 3.9,
+      "culture_values": 3.7,
+      "work_life_balance": 3.8,
+      "would_recommend": "75%",
+      "total_reviews": 514,
+      "culture_highlights": [
+        "Great culture, considers employees as family",
+        "Amazing work life balance encouraged",
+        "Competitive salary, great benefits",
+        "Wonderful coworkers, amazing managers"
+      ],
+      "culture_concerns": [
+        "Poor management decisions, mass layoffs",
+        "Poor management, lots of acquisitions",
+        "No severance support for employees"
+      ]
+    }
+  },
+  {
+    "company": "NEXTDC",
+    "title": "Chief Technology Officer",
+    "location": "Sydney, NSW (Flexible)",
+    "url": "https://www.nextdc.com/careers",
+    "salary_min": 480000,
+    "salary_max": 600000,
+    "requirements": ["Data center expertise", "Infrastructure", "Cloud platforms", "Strategic leadership", "Innovation"],
+    "posted_date": "2026-01-06",
+    "job_type": "full-time",
+    "company_size": "500+",
+    "work_life_balance_rating": 4,
+    "description_snippet": "Lead technology strategy for Australia's leading data center operator. Drive innovation in cloud infrastructure.",
+    "source": "NEXTDC",
+    "glassdoor_rating": {
+      "overall_rating": 3.9,
+      "culture_values": 3.9,
+      "work_life_balance": 4.2,
+      "would_recommend": "82%",
+      "total_reviews": 66,
+      "culture_highlights": [
+        "Highest work-life balance rating (4.2/5)",
+        "Great facility team culture",
+        "Everyone knows roles and helps when needed",
+        "82% would recommend - highest rate"
+      ],
+      "culture_concerns": [
+        "Some reviews mention toxic management",
+        "Management style concerns from some employees"
+      ]
+    }
+  },
+  {
+    "company": "NAB",
+    "title": "Executive GM - Business Banking",
+    "location": "Sydney, NSW (Hybrid)",
+    "url": "https://www.nab.com.au/careers",
+    "salary_min": 480000,
+    "salary_max": 580000,
+    "requirements": ["Business banking", "SME market", "Credit risk", "Relationship management", "P&L ownership"],
+    "posted_date": "2026-01-08",
+    "job_type": "full-time",
+    "company_size": "35000+",
+    "work_life_balance_rating": 4,
+    "description_snippet": "Lead business banking division with responsibility for SME and corporate segments.",
+    "source": "NAB",
+    "glassdoor_rating": {
+      "overall_rating": 3.6,
+      "culture_values": 3.6,
+      "work_life_balance": 3.7,
+      "would_recommend": "70%",
+      "total_reviews": 425,
+      "culture_highlights": [
+        "Good work life balance and pay",
+        "Interns rate highly (4.7 culture, 4.3 work-life balance)",
+        "3 days/week office model",
+        "Flexible work arrangements"
+      ],
+      "culture_concerns": [
+        "Large bank bureaucracy",
+        "Traditional corporate structure"
+      ]
+    }
+  }
+]

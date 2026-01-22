@@ -1,0 +1,1001 @@
+{
+  "analysis_metadata": {
+    "candidate_name": "Lee Roy Pinto",
+    "analysis_date": "2026-01-15",
+    "total_positions_analyzed": 20,
+    "categories": ["technical_leadership", "commercial_gtm", "partnerships_alliances"],
+    "scoring_criteria": {
+      "skill_alignment": 40,
+      "experience_match": 30,
+      "education_fit": 15,
+      "location_culture": 15
+    },
+    "bonus_scoring": {
+      "strategic_partnerships_google": 10,
+      "business_development_aws": 10,
+      "fundraising_vc_relationships": 8,
+      "b2b_relationship_building": 5,
+      "work_life_balance_3_5_plus": 5,
+      "work_life_balance_4_0_plus": 10,
+      "salary_alignment_350k_600k": 5,
+      "culture_rating_4_0_plus": 5,
+      "would_recommend_80_plus": 3
+    }
+  },
+  "top_15_matches": [
+    {
+      "rank": 1,
+      "company": "Microsoft Australia",
+      "title": "Director - Partner Ecosystem",
+      "location": "Sydney, NSW (Hybrid)",
+      "category": "partnerships_alliances",
+      "total_score": 95,
+      "salary_range": "$450K-$600K",
+      "detailed_scoring": {
+        "skill_alignment": 38,
+        "experience_match": 28,
+        "education_fit": 15,
+        "location_culture": 14,
+        "bonus_points": {
+          "strategic_partnerships_google": 10,
+          "business_development_aws": 10,
+          "b2b_relationship_building": 5,
+          "work_life_balance_4_0_plus": 10,
+          "salary_alignment_350k_600k": 5,
+          "culture_rating_4_0_plus": 5,
+          "would_recommend_80_plus": 3
+        }
+      },
+      "match_analysis": {
+        "strengths": [
+          "Perfect alignment with strategic partnerships experience at Google",
+          "Partner ecosystem role leverages AWS business development background",
+          "Technology alliances match his fintech and cloud experience",
+          "Excellent cultural fit (4.4 overall, 87% recommend)",
+          "Salary perfectly within target range",
+          "Sydney location ideal"
+        ],
+        "considerations": [
+          "Large enterprise environment vs startup experience",
+          "Less direct P&L responsibility than current role"
+        ]
+      },
+      "glassdoor_insights": {
+        "overall_rating": 4.4,
+        "culture_values": 4.3,
+        "work_life_balance": 4.2,
+        "would_recommend": "87%",
+        "culture_highlights": ["Inclusive culture", "Growth mindset", "Work-life balance focus", "Innovation opportunities"],
+        "culture_fit_score": "Excellent"
+      }
+    },
+    {
+      "rank": 2,
+      "company": "Salesforce",
+      "title": "VP Strategic Partnerships - APAC",
+      "location": "Sydney, NSW (Flexible)",
+      "category": "partnerships_alliances",
+      "total_score": 92,
+      "salary_range": "$420K-$580K",
+      "detailed_scoring": {
+        "skill_alignment": 37,
+        "experience_match": 27,
+        "education_fit": 15,
+        "location_culture": 13,
+        "bonus_points": {
+          "strategic_partnerships_google": 10,
+          "business_development_aws": 10,
+          "b2b_relationship_building": 5,
+          "work_life_balance_4_0_plus": 10,
+          "salary_alignment_350k_600k": 5,
+          "culture_rating_4_0_plus": 5,
+          "would_recommend_80_plus": 3
+        }
+      },
+      "match_analysis": {
+        "strengths": [
+          "VP level aligns with executive experience",
+          "APAC focus leverages regional expertise from Google/AWS",
+          "SaaS ecosystem experience directly applicable",
+          "Technology alliances match his technical background",
+          "Strong culture ratings and work-life balance"
+        ],
+        "considerations": [
+          "High target pressure environment",
+          "Competitive internal culture"
+        ]
+      },
+      "glassdoor_insights": {
+        "overall_rating": 4.3,
+        "culture_values": 4.4,
+        "work_life_balance": 4.1,
+        "would_recommend": "85%",
+        "culture_highlights": ["Ohana culture", "Equality focus", "Innovation emphasis", "Strong benefits"],
+        "culture_fit_score": "Excellent"
+      }
+    },
+    {
+      "rank": 3,
+      "company": "Amazon Web Services",
+      "title": "Head of Channel Partnerships - ANZ",
+      "location": "Sydney, NSW (Hybrid)",
+      "category": "partnerships_alliances",
+      "total_score": 89,
+      "salary_range": "$400K-$550K",
+      "detailed_scoring": {
+        "skill_alignment": 39,
+        "experience_match": 30,
+        "education_fit": 15,
+        "location_culture": 11,
+        "bonus_points": {
+          "strategic_partnerships_google": 10,
+          "business_development_aws": 10,
+          "b2b_relationship_building": 5,
+          "salary_alignment_350k_600k": 5,
+          "culture_rating_4_0_plus": 0,
+          "would_recommend_80_plus": 0
+        }
+      },
+      "match_analysis": {
+        "strengths": [
+          "Direct AWS experience and brand familiarity",
+          "Channel partnerships align with his business development skills",
+          "Cloud solutions expertise perfect match",
+          "ANZ region fits his APAC experience",
+          "Returning to familiar AWS environment"
+        ],
+        "considerations": [
+          "High pressure environment and long hours culture",
+          "Lower culture ratings (3.9 overall)",
+          "Work-life balance concerns (3.6 rating)"
+        ]
+      },
+      "glassdoor_insights": {
+        "overall_rating": 3.9,
+        "culture_values": 3.8,
+        "work_life_balance": 3.6,
+        "would_recommend": "73%",
+        "culture_highlights": ["Customer obsession", "Innovation focus", "Learn and be curious", "Strong growth opportunities"],
+        "culture_fit_score": "Good"
+      }
+    },
+    {
+      "rank": 4,
+      "company": "Google Australia",
+      "title": "Head of Cloud Sales - APAC",
+      "location": "Sydney, NSW (Hybrid)",
+      "category": "commercial_gtm",
+      "total_score": 88,
+      "salary_range": "$500K-$650K",
+      "detailed_scoring": {
+        "skill_alignment": 36,
+        "experience_match": 28,
+        "education_fit": 15,
+        "location_culture": 15,
+        "bonus_points": {
+          "strategic_partnerships_google": 10,
+          "business_development_aws": 10,
+          "b2b_relationship_building": 5,
+          "work_life_balance_4_0_plus": 10,
+          "salary_alignment_350k_600k": 5,
+          "culture_rating_4_0_plus": 5,
+          "would_recommend_80_plus": 3
+        }
+      },
+      "match_analysis": {
+        "strengths": [
+          "Returning to Google with deep institutional knowledge",
+          "Cloud sales leverages both Google and AWS experience",
+          "APAC regional expertise directly applicable",
+          "Excellent culture and work-life balance (4.4/4.2)",
+          "High salary range exceeds target",
+          "90% recommendation rate shows strong employee satisfaction"
+        ],
+        "considerations": [
+          "More commercial sales focus vs partnerships",
+          "High performance expectations at Google"
+        ]
+      },
+      "glassdoor_insights": {
+        "overall_rating": 4.4,
+        "culture_values": 4.4,
+        "work_life_balance": 4.2,
+        "would_recommend": "90%",
+        "culture_highlights": ["Excellent work-life balance", "Innovation-focused culture", "Great benefits and perks"],
+        "culture_fit_score": "Excellent"
+      }
+    },
+    {
+      "rank": 5,
+      "company": "HubSpot",
+      "title": "Director of Business Development - APAC",
+      "location": "Sydney, NSW (Remote-First)",
+      "category": "partnerships_alliances",
+      "total_score": 87,
+      "salary_range": "$350K-$480K",
+      "detailed_scoring": {
+        "skill_alignment": 35,
+        "experience_match": 25,
+        "education_fit": 15,
+        "location_culture": 15,
+        "bonus_points": {
+          "strategic_partnerships_google": 10,
+          "business_development_aws": 10,
+          "b2b_relationship_building": 5,
+          "work_life_balance_4_0_plus": 10,
+          "salary_alignment_350k_600k": 5,
+          "culture_rating_4_0_plus": 5,
+          "would_recommend_80_plus": 3
+        }
+      },
+      "match_analysis": {
+        "strengths": [
+          "Business development aligns perfectly with AWS experience",
+          "SaaS partnerships match his technology background",
+          "Marketing technology leverages Google platforms experience",
+          "Outstanding culture (4.3 overall, 88% recommend)",
+          "Remote-first approach offers flexibility",
+          "APAC regional focus"
+        ],
+        "considerations": [
+          "Lower end of salary range",
+          "Marketing technology vs fintech domain shift"
+        ]
+      },
+      "glassdoor_insights": {
+        "overall_rating": 4.3,
+        "culture_values": 4.5,
+        "work_life_balance": 4.2,
+        "would_recommend": "88%",
+        "culture_highlights": ["Amazing culture and values", "Unlimited PTO", "Remote-first approach", "Growth opportunities"],
+        "culture_fit_score": "Excellent"
+      }
+    },
+    {
+      "rank": 6,
+      "company": "Canva",
+      "title": "Head of AI/ML Engineering",
+      "location": "Sydney, NSW (Flexible Hybrid)",
+      "category": "technical_leadership",
+      "total_score": 85,
+      "salary_range": "$450K-$600K",
+      "detailed_scoring": {
+        "skill_alignment": 37,
+        "experience_match": 26,
+        "education_fit": 15,
+        "location_culture": 14,
+        "bonus_points": {
+          "strategic_partnerships_google": 0,
+          "business_development_aws": 0,
+          "b2b_relationship_building": 0,
+          "work_life_balance_4_0_plus": 0,
+          "salary_alignment_350k_600k": 5,
+          "culture_rating_4_0_plus": 5,
+          "would_recommend_80_plus": 0
+        }
+      },
+      "match_analysis": {
+        "strengths": [
+          "AI/ML expertise matches Ringkas multi-agent AI work",
+          "Team leadership experience scales to 185M users",
+          "Technical architecture aligns with his engineering background",
+          "Sydney location perfect",
+          "High salary range",
+          "Strong technical product focus"
+        ],
+        "considerations": [
+          "Less partnership/business development focus",
+          "More technical IC work vs executive business role",
+          "Consumer product vs B2B enterprise experience"
+        ]
+      },
+      "glassdoor_insights": {
+        "overall_rating": 4.0,
+        "culture_values": 3.9,
+        "work_life_balance": 3.9,
+        "would_recommend": "77%",
+        "culture_highlights": ["Incredibly inclusive environment", "Great work life balance with flexibility", "People are great, awesome team culture"],
+        "culture_fit_score": "Very Good"
+      }
+    },
+    {
+      "rank": 7,
+      "company": "SafetyCulture",
+      "title": "CTO - Chief Technology Officer",
+      "location": "Sydney, NSW (Flexible Working)",
+      "category": "technical_leadership",
+      "total_score": 82,
+      "salary_range": "$500K-$650K",
+      "detailed_scoring": {
+        "skill_alignment": 35,
+        "experience_match": 29,
+        "education_fit": 15,
+        "location_culture": 13,
+        "bonus_points": {
+          "strategic_partnerships_google": 0,
+          "business_development_aws": 0,
+          "b2b_relationship_building": 5,
+          "work_life_balance_4_0_plus": 0,
+          "salary_alignment_350k_600k": 5,
+          "culture_rating_4_0_plus": 0,
+          "would_recommend_80_plus": 0
+        }
+      },
+      "match_analysis": {
+        "strengths": [
+          "CTO role matches executive leadership experience",
+          "SaaS platform expertise from previous roles",
+          "Global scale experience (85,000+ organizations)",
+          "Team building skills directly applicable",
+          "High salary range above target",
+          "Sydney-based role"
+        ],
+        "considerations": [
+          "Less commercial/partnerships focus",
+          "Work-life balance concerns in culture reviews",
+          "Fast-paced culture may affect balance"
+        ]
+      },
+      "glassdoor_insights": {
+        "overall_rating": 3.8,
+        "culture_values": 4.1,
+        "work_life_balance": 3.9,
+        "would_recommend": "73%",
+        "culture_highlights": ["People living company values", "Hybrid work with flexibility", "Supportive of work life balance"],
+        "culture_fit_score": "Good"
+      }
+    },
+    {
+      "rank": 8,
+      "company": "Workiva",
+      "title": "VP & General Manager APAC Sales",
+      "location": "Sydney, NSW (Hybrid)",
+      "category": "commercial_gtm",
+      "total_score": 81,
+      "salary_range": "$400K-$600K",
+      "detailed_scoring": {
+        "skill_alignment": 32,
+        "experience_match": 28,
+        "education_fit": 15,
+        "location_culture": 14,
+        "bonus_points": {
+          "strategic_partnerships_google": 0,
+          "business_development_aws": 5,
+          "b2b_relationship_building": 5,
+          "work_life_balance_4_0_plus": 10,
+          "salary_alignment_350k_600k": 5,
+          "culture_rating_4_0_plus": 5,
+          "would_recommend_80_plus": 3
+        }
+      },
+      "match_analysis": {
+        "strengths": [
+          "VP/GM role aligns with executive experience",
+          "APAC expansion leverages regional expertise",
+          "SaaS experience from Google/AWS background",
+          "P&L management matches CT Corp experience",
+          "Strong culture ratings (4.1 overall, 85% recommend)",
+          "Salary within target range"
+        ],
+        "considerations": [
+          "More sales-focused vs partnerships",
+          "Compliance/reporting platform vs fintech domain"
+        ]
+      },
+      "glassdoor_insights": {
+        "overall_rating": 4.1,
+        "culture_values": 4.2,
+        "work_life_balance": 4.0,
+        "would_recommend": "85%",
+        "culture_highlights": ["Strong company culture", "Good work-life balance", "Innovation focus", "Employee-centric policies"],
+        "culture_fit_score": "Very Good"
+      }
+    },
+    {
+      "rank": 9,
+      "company": "Airwallex",
+      "title": "VP Engineering - Payments",
+      "location": "Sydney, NSW (3 days office)",
+      "category": "technical_leadership",
+      "total_score": 79,
+      "salary_range": "$420K-$550K",
+      "detailed_scoring": {
+        "skill_alignment": 38,
+        "experience_match": 27,
+        "education_fit": 15,
+        "location_culture": 9,
+        "bonus_points": {
+          "strategic_partnerships_google": 0,
+          "business_development_aws": 5,
+          "b2b_relationship_building": 5,
+          "work_life_balance_4_0_plus": 0,
+          "salary_alignment_350k_600k": 5,
+          "culture_rating_4_0_plus": 0,
+          "would_recommend_80_plus": 0
+        }
+      },
+      "match_analysis": {
+        "strengths": [
+          "Fintech experience directly applicable to Ringkas background",
+          "Payments systems align with financial services expertise",
+          "Global teams management matches current scale",
+          "Cross-border payments relevant to APAC experience",
+          "$100B+ processing scale shows enterprise capability"
+        ],
+        "considerations": [
+          "Toxic culture concerns from engineering reviews",
+          "Non-technical managers dominating culture",
+          "High turnover and reorganizations",
+          "Lower work-life balance ratings"
+        ]
+      },
+      "glassdoor_insights": {
+        "overall_rating": 3.7,
+        "culture_values": 3.5,
+        "work_life_balance": 3.6,
+        "would_recommend": "70%",
+        "culture_highlights": ["Personal growth opportunities", "Melbourne office excellent rating"],
+        "culture_fit_score": "Moderate"
+      }
+    },
+    {
+      "rank": 10,
+      "company": "Airtasker",
+      "title": "Chief Technology Officer",
+      "location": "Sydney, NSW (Flexible)",
+      "category": "technical_leadership",
+      "total_score": 78,
+      "salary_range": "$400K-$550K",
+      "detailed_scoring": {
+        "skill_alignment": 33,
+        "experience_match": 27,
+        "education_fit": 15,
+        "location_culture": 14,
+        "bonus_points": {
+          "strategic_partnerships_google": 0,
+          "business_development_aws": 0,
+          "b2b_relationship_building": 5,
+          "work_life_balance_4_0_plus": 10,
+          "salary_alignment_350k_600k": 5,
+          "culture_rating_4_0_plus": 0,
+          "would_recommend_80_plus": 0
+        }
+      },
+      "match_analysis": {
+        "strengths": [
+          "CTO role matches leadership experience",
+          "Platform development aligns with technical background",
+          "Marketplace platform relevant to digital strategy",
+          "Team scaling experience applicable",
+          "Flexible work arrangements",
+          "Good work-life balance (4.0 rating)"
+        ],
+        "considerations": [
+          "Smaller scale vs current fintech experience",
+          "Consumer marketplace vs B2B enterprise focus",
+          "Startup pace and resource constraints"
+        ]
+      },
+      "glassdoor_insights": {
+        "overall_rating": 3.8,
+        "culture_values": 3.9,
+        "work_life_balance": 4.0,
+        "would_recommend": "78%",
+        "culture_highlights": ["Great startup culture", "Flexible work arrangements", "Mission-driven team", "Good growth opportunities"],
+        "culture_fit_score": "Good"
+      }
+    },
+    {
+      "rank": 11,
+      "company": "Primary",
+      "title": "Chief Technology Officer",
+      "location": "Sydney, NSW (Hybrid)",
+      "category": "technical_leadership",
+      "total_score": 76,
+      "salary_range": "$350K-$450K",
+      "detailed_scoring": {
+        "skill_alignment": 30,
+        "experience_match": 25,
+        "education_fit": 15,
+        "location_culture": 15,
+        "bonus_points": {
+          "strategic_partnerships_google": 0,
+          "business_development_aws": 0,
+          "b2b_relationship_building": 5,
+          "work_life_balance_4_0_plus": 10,
+          "salary_alignment_350k_600k": 5,
+          "culture_rating_4_0_plus": 5,
+          "would_recommend_80_plus": 3
+        }
+      },
+      "match_analysis": {
+        "strengths": [
+          "CTO role fits executive experience",
+          "Digital health transformation aligns with innovation focus",
+          "Platform architecture relevant to technical background",
+          "Healthcare compliance matches regulatory experience",
+          "Outstanding culture (4.2 overall, 90% recommend)",
+          "Mission-driven healthcare focus"
+        ],
+        "considerations": [
+          "Healthcare domain shift from fintech",
+          "Lower salary range",
+          "Smaller scale (150+ vs 110 at Ringkas)",
+          "Healthcare regulation complexity"
+        ]
+      },
+      "glassdoor_insights": {
+        "overall_rating": 4.2,
+        "culture_values": 4.3,
+        "work_life_balance": 4.1,
+        "would_recommend": "90%",
+        "culture_highlights": ["Mission-driven healthcare focus", "Excellent work-life balance", "Collaborative culture", "Purpose-driven work"],
+        "culture_fit_score": "Excellent"
+      }
+    },
+    {
+      "rank": 12,
+      "company": "Datacom",
+      "title": "General Manager - Sales",
+      "location": "Sydney, NSW (Hybrid)",
+      "category": "commercial_gtm",
+      "total_score": 75,
+      "salary_range": "$350K-$500K",
+      "detailed_scoring": {
+        "skill_alignment": 30,
+        "experience_match": 26,
+        "education_fit": 15,
+        "location_culture": 13,
+        "bonus_points": {
+          "strategic_partnerships_google": 0,
+          "business_development_aws": 5,
+          "b2b_relationship_building": 5,
+          "work_life_balance_4_0_plus": 0,
+          "salary_alignment_350k_600k": 5,
+          "culture_rating_4_0_plus": 0,
+          "would_recommend_80_plus": 0
+        }
+      },
+      "match_analysis": {
+        "strengths": [
+          "GM role aligns with executive experience",
+          "IT services relevant to cloud/digital background",
+          "Government sector experience from enterprise sales",
+          "Business development skills applicable",
+          "Stable company with good work-life balance"
+        ],
+        "considerations": [
+          "Traditional IT services vs innovative fintech",
+          "Large company bureaucracy",
+          "Less strategic partnerships focus"
+        ]
+      },
+      "glassdoor_insights": {
+        "overall_rating": 3.9,
+        "culture_values": 3.8,
+        "work_life_balance": 3.9,
+        "would_recommend": "75%",
+        "culture_highlights": ["Good work-life balance", "Strong team culture", "Professional development", "Stable company"],
+        "culture_fit_score": "Good"
+      }
+    },
+    {
+      "rank": 13,
+      "company": "SS&C Technologies",
+      "title": "Head of Alliances - APAC",
+      "location": "Sydney, NSW (Hybrid)",
+      "category": "partnerships_alliances",
+      "total_score": 74,
+      "salary_range": "$280K-$380K",
+      "detailed_scoring": {
+        "skill_alignment": 35,
+        "experience_match": 25,
+        "education_fit": 15,
+        "location_culture": 8,
+        "bonus_points": {
+          "strategic_partnerships_google": 10,
+          "business_development_aws": 5,
+          "b2b_relationship_building": 5,
+          "work_life_balance_4_0_plus": 0,
+          "salary_alignment_350k_600k": 0,
+          "culture_rating_4_0_plus": 0,
+          "would_recommend_80_plus": 0
+        }
+      },
+      "match_analysis": {
+        "strengths": [
+          "Strategic alliances perfect fit for partnerships experience",
+          "Financial services aligns with Ringkas fintech background",
+          "APAC markets leverage regional expertise",
+          "Technology alliances match technical background",
+          "Channel partnerships relevant to AWS experience"
+        ],
+        "considerations": [
+          "Below target salary range",
+          "Fear-based culture concerns",
+          "Work-life balance issues (long hours, weekends)",
+          "High turnover environment"
+        ]
+      },
+      "glassdoor_insights": {
+        "overall_rating": 3.1,
+        "culture_values": 3.0,
+        "work_life_balance": 3.4,
+        "would_recommend": "50%",
+        "culture_highlights": ["Some great people to work with", "Work from home options", "Good culture in some teams"],
+        "culture_fit_score": "Poor"
+      }
+    },
+    {
+      "rank": 14,
+      "company": "Atlassian",
+      "title": "VP of Engineering - Platform",
+      "location": "Sydney, NSW (Hybrid - Team Anywhere)",
+      "category": "technical_leadership",
+      "total_score": 73,
+      "salary_range": "$400K-$550K",
+      "detailed_scoring": {
+        "skill_alignment": 34,
+        "experience_match": 27,
+        "education_fit": 15,
+        "location_culture": 7,
+        "bonus_points": {
+          "strategic_partnerships_google": 0,
+          "business_development_aws": 5,
+          "b2b_relationship_building": 5,
+          "work_life_balance_4_0_plus": 0,
+          "salary_alignment_350k_600k": 5,
+          "culture_rating_4_0_plus": 0,
+          "would_recommend_80_plus": 0
+        }
+      },
+      "match_analysis": {
+        "strengths": [
+          "VP Engineering matches leadership experience",
+          "Platform architecture aligns with technical background",
+          "Distributed teams management relevant to global experience",
+          "Scale-up experience applicable",
+          "Cloud infrastructure expertise fits"
+        ],
+        "considerations": [
+          "Culture of fear and PIP factory concerns",
+          "Executive leadership issues",
+          "Low recommendation rate (44%)",
+          "Recent cultural changes affecting morale"
+        ]
+      },
+      "glassdoor_insights": {
+        "overall_rating": 3.1,
+        "culture_values": 2.8,
+        "work_life_balance": 3.1,
+        "would_recommend": "44%",
+        "culture_highlights": ["Great culture, competitive pay", "Fully remote and async working", "Collaborative work environment"],
+        "culture_fit_score": "Poor"
+      }
+    },
+    {
+      "rank": 15,
+      "company": "Future Super",
+      "title": "Head of Partnerships",
+      "location": "Sydney, NSW (Hybrid)",
+      "category": "partnerships_alliances",
+      "total_score": 72,
+      "salary_range": "$280K-$380K",
+      "detailed_scoring": {
+        "skill_alignment": 33,
+        "experience_match": 22,
+        "education_fit": 15,
+        "location_culture": 13,
+        "bonus_points": {
+          "strategic_partnerships_google": 10,
+          "business_development_aws": 5,
+          "b2b_relationship_building": 5,
+          "work_life_balance_4_0_plus": 10,
+          "salary_alignment_350k_600k": 0,
+          "culture_rating_4_0_plus": 0,
+          "would_recommend_80_plus": 0
+        }
+      },
+      "match_analysis": {
+        "strengths": [
+          "Strategic partnerships role perfect for his experience",
+          "Financial services industry familiarity",
+          "B2B relationships and revenue growth focus",
+          "Purpose-driven mission aligns with values",
+          "Good work-life balance (4.0 rating)",
+          "6 paid mental health days benefit"
+        ],
+        "considerations": [
+          "Significant salary reduction from target range",
+          "Smaller scale (200+ employees) vs enterprise experience",
+          "Superannuation industry vs broader fintech",
+          "Limited growth opportunities reported"
+        ]
+      },
+      "glassdoor_insights": {
+        "overall_rating": 3.5,
+        "culture_values": 3.6,
+        "work_life_balance": 4.0,
+        "would_recommend": "66%",
+        "culture_highlights": ["Purpose-driven work", "6 paid mental health days", "Transparent compensation process", "Ethics-focused mission"],
+        "culture_fit_score": "Good"
+      }
+    }
+  ],
+  "category_breakdown": {
+    "technical_leadership": {
+      "best_matches": [
+        {
+          "rank": 6,
+          "company": "Canva",
+          "title": "Head of AI/ML Engineering",
+          "score": 85,
+          "key_strengths": "AI/ML expertise, Sydney location, high salary"
+        },
+        {
+          "rank": 7,
+          "company": "SafetyCulture",
+          "title": "CTO - Chief Technology Officer",
+          "score": 82,
+          "key_strengths": "CTO role, global scale, high salary"
+        },
+        {
+          "rank": 10,
+          "company": "Airtasker",
+          "title": "Chief Technology Officer",
+          "score": 78,
+          "key_strengths": "CTO role, platform development, good work-life balance"
+        }
+      ],
+      "analysis": "Technical leadership roles leverage his engineering background and executive experience. AI/ML roles particularly strong given Ringkas multi-agent AI work."
+    },
+    "commercial_gtm": {
+      "best_matches": [
+        {
+          "rank": 4,
+          "company": "Google Australia",
+          "title": "Head of Cloud Sales - APAC",
+          "score": 88,
+          "key_strengths": "Google experience, APAC expertise, excellent culture"
+        },
+        {
+          "rank": 8,
+          "company": "Workiva",
+          "title": "VP & General Manager APAC Sales",
+          "score": 81,
+          "key_strengths": "VP/GM role, APAC expansion, strong culture"
+        },
+        {
+          "rank": 12,
+          "company": "Datacom",
+          "title": "General Manager - Sales",
+          "score": 75,
+          "key_strengths": "GM role, enterprise sales, stable company"
+        }
+      ],
+      "analysis": "Commercial roles benefit from his Google and AWS regional experience. APAC-focused positions particularly strong due to his regional expertise."
+    },
+    "partnerships_alliances": {
+      "best_matches": [
+        {
+          "rank": 1,
+          "company": "Microsoft Australia",
+          "title": "Director - Partner Ecosystem",
+          "score": 95,
+          "key_strengths": "Perfect strategic partnerships fit, excellent culture, salary alignment"
+        },
+        {
+          "rank": 2,
+          "company": "Salesforce",
+          "title": "VP Strategic Partnerships - APAC",
+          "score": 92,
+          "key_strengths": "VP level, APAC focus, SaaS ecosystem expertise"
+        },
+        {
+          "rank": 3,
+          "company": "Amazon Web Services",
+          "title": "Head of Channel Partnerships - ANZ",
+          "score": 89,
+          "key_strengths": "AWS experience, channel partnerships, cloud expertise"
+        }
+      ],
+      "analysis": "Partnership roles are the strongest fit, leveraging his Google strategic partnerships and AWS business development experience. These roles align perfectly with his background."
+    }
+  },
+  "salary_analysis": {
+    "within_target_range": [
+      {
+        "company": "Microsoft Australia",
+        "title": "Director - Partner Ecosystem",
+        "range": "$450K-$600K",
+        "alignment": "Perfect - upper end matches target"
+      },
+      {
+        "company": "Canva",
+        "title": "Head of AI/ML Engineering",
+        "range": "$450K-$600K",
+        "alignment": "Perfect - matches target range exactly"
+      },
+      {
+        "company": "SafetyCulture",
+        "title": "CTO - Chief Technology Officer",
+        "range": "$500K-$650K",
+        "alignment": "Exceeds target - premium positioning"
+      },
+      {
+        "company": "Google Australia",
+        "title": "Head of Cloud Sales - APAC",
+        "range": "$500K-$650K",
+        "alignment": "Exceeds target - premium positioning"
+      },
+      {
+        "company": "Salesforce",
+        "title": "VP Strategic Partnerships - APAC",
+        "range": "$420K-$580K",
+        "alignment": "Good fit - overlaps target range well"
+      }
+    ],
+    "below_target": [
+      {
+        "company": "Future Super",
+        "title": "Head of Partnerships",
+        "range": "$280K-$380K",
+        "gap": "$70K below minimum"
+      },
+      {
+        "company": "SS&C Technologies",
+        "title": "Head of Alliances - APAC",
+        "range": "$280K-$380K",
+        "gap": "$70K below minimum"
+      },
+      {
+        "company": "Cashrewards",
+        "title": "Head of Strategic Partnerships",
+        "range": "$220K-$320K",
+        "gap": "$30K below minimum"
+      }
+    ],
+    "summary": "12 out of 20 positions meet or exceed the $350K-$600K target range. Partnership roles at major tech companies offer the best salary alignment."
+  },
+  "glassdoor_insights": {
+    "top_culture_matches": [
+      {
+        "company": "Q-CTRL",
+        "overall_rating": 4.5,
+        "work_life_balance": 4.2,
+        "would_recommend": "95%",
+        "culture_fit": "Excellent - Innovation focus, flexible culture"
+      },
+      {
+        "company": "Google Australia",
+        "overall_rating": 4.4,
+        "work_life_balance": 4.2,
+        "would_recommend": "90%",
+        "culture_fit": "Excellent - Innovation culture, great work-life balance"
+      },
+      {
+        "company": "Microsoft Australia",
+        "overall_rating": 4.4,
+        "work_life_balance": 4.2,
+        "would_recommend": "87%",
+        "culture_fit": "Excellent - Inclusive culture, growth mindset"
+      },
+      {
+        "company": "Salesforce",
+        "overall_rating": 4.3,
+        "work_life_balance": 4.1,
+        "would_recommend": "85%",
+        "culture_fit": "Excellent - Ohana culture, equality focus"
+      },
+      {
+        "company": "HubSpot",
+        "overall_rating": 4.3,
+        "work_life_balance": 4.2,
+        "would_recommend": "88%",
+        "culture_fit": "Excellent - Remote-first, unlimited PTO"
+      }
+    ],
+    "culture_concerns": [
+      {
+        "company": "Atlassian",
+        "concerns": ["PIP factory culture of fear", "Executive leadership issues"],
+        "overall_rating": 3.1,
+        "recommendation": "Avoid - Cultural transformation risk"
+      },
+      {
+        "company": "SS&C Technologies",
+        "concerns": ["Fear-based culture", "High turnover", "Poor work-life balance"],
+        "overall_rating": 3.1,
+        "recommendation": "Avoid - Work-life balance concerns"
+      },
+      {
+        "company": "Airwallex",
+        "concerns": ["Toxic culture", "Engineers treated second class", "High turnover"],
+        "overall_rating": 3.7,
+        "recommendation": "Caution - Engineering culture issues"
+      }
+    ],
+    "work_life_balance_leaders": [
+      "Future Super (4.0)",
+      "Primary (4.1)",
+      "Google Australia (4.2)",
+      "Microsoft Australia (4.2)",
+      "HubSpot (4.2)",
+      "Q-CTRL (4.2)"
+    ]
+  },
+  "strategic_recommendations": {
+    "top_3_strategic_picks": [
+      {
+        "rank": 1,
+        "company": "Microsoft Australia",
+        "title": "Director - Partner Ecosystem",
+        "rationale": "Perfect alignment with strategic partnerships background from Google. Leverages technology alliances experience and partner ecosystem expertise. Excellent culture fit and salary alignment. Sydney location ideal.",
+        "strategic_value": "Highest - Builds on core partnership strengths while joining market leader"
+      },
+      {
+        "rank": 2,
+        "company": "Salesforce",
+        "title": "VP Strategic Partnerships - APAC",
+        "rationale": "VP level role provides progression from current Director position. APAC focus maximizes regional expertise from Google/AWS. SaaS ecosystem perfectly matches technology background.",
+        "strategic_value": "Excellent - Career progression with partnership specialization"
+      },
+      {
+        "rank": 3,
+        "company": "Google Australia",
+        "title": "Head of Cloud Sales - APAC",
+        "rationale": "Return to Google leverages institutional knowledge and relationships. Cloud sales builds on both Google and AWS experience. Excellent culture and compensation package.",
+        "strategic_value": "Strong - Leverages existing relationships and cloud expertise"
+      }
+    ],
+    "partnership_specialization_path": {
+      "immediate_opportunities": [
+        "Microsoft Director - Partner Ecosystem (Score: 95)",
+        "Salesforce VP Strategic Partnerships (Score: 92)",
+        "AWS Head of Channel Partnerships (Score: 89)"
+      ],
+      "career_progression": "Partnership roles offer the clearest path to leverage his unique combination of Google strategic partnerships + AWS business development + startup fundraising experience.",
+      "compensation_potential": "Partnership roles at major tech companies command premium compensation ($420K-$600K range)",
+      "market_positioning": "Positions him as a partnerships expert in the APAC technology ecosystem"
+    },
+    "diversification_options": {
+      "technical_leadership": "AI/ML roles leverage Ringkas technical work (Canva Head of AI/ML - Score: 85)",
+      "commercial_growth": "Revenue leadership roles build on P&L experience (Google Cloud Sales - Score: 88)",
+      "executive_progression": "CTO roles provide technical leadership pathway (SafetyCulture CTO - Score: 82)"
+    },
+    "risk_analysis": {
+      "high_risk_low_reward": [
+        "Atlassian VP Engineering (Culture concerns, PIP factory)",
+        "SS&C Head of Alliances (Fear-based culture, below salary target)"
+      ],
+      "high_reward_moderate_risk": [
+        "SafetyCulture CTO (High salary but fast-paced culture)",
+        "AWS Channel Partnerships (Great fit but work-life balance concerns)"
+      ],
+      "low_risk_high_reward": [
+        "Microsoft Partner Ecosystem (Excellent culture + perfect fit)",
+        "Primary CTO (Great culture but smaller scale/salary)"
+      ]
+    }
+  },
+  "next_steps": {
+    "immediate_actions": [
+      "Apply to Microsoft Director - Partner Ecosystem (highest overall match)",
+      "Connect with Salesforce VP Strategic Partnerships hiring team",
+      "Leverage Google network for Head of Cloud Sales - APAC role",
+      "Research HubSpot's APAC expansion strategy for Business Development role"
+    ],
+    "networking_priorities": [
+      "Microsoft Australia partner ecosystem leaders",
+      "Salesforce APAC partnerships team",
+      "Google Cloud sales leadership in Sydney",
+      "AWS channel partnerships ANZ team"
+    ],
+    "skill_development": [
+      "Microsoft partner ecosystem certification",
+      "Salesforce partner program expertise",
+      "AI/ML partnership strategy (for tech leadership roles)",
+      "Healthcare partnership models (for Primary CTO consideration)"
+    ]
+  }
+}

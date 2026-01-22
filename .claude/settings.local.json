@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(python:*)",
+      "WebSearch",
+      "WebSearch",
+      "WebSearch",
+      "WebSearch",
+      "WebFetch(domain:www.seek.com.au)",
+      "WebFetch(domain:au.indeed.com)",
+      "WebFetch(domain:www.seek.com.au)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

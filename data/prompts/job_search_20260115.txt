@@ -1,0 +1,58 @@
+
+Search for "CTO VP Engineering Head of AI Chief Revenue Officer VP Sales GM Head of Partnerships VP Partnerships Head of Partnerships VP of Partnerships Director of Partnerships Head of Strategic Partnerships VP Strategic Partnerships Head of Alliances VP of Alliances Director of Alliances Head of Business Development VP Business Development Head of Channel Partnerships VP Channel Partnerships Head of Ecosystem VP of Ecosystem Chief Partnership Officer CPO Partnerships Head of Strategic Alliances VP Strategic Alliances Business Development Director Strategic Partnerships Manager" positions in "Sydney Australia" using web search.
+
+Search these sources:
+1. LinkedIn Jobs
+2. Indeed
+3. Glassdoor
+4. AngelList (for startups)
+5. Major tech company career pages (Google, Meta, Apple, Microsoft, Amazon, etc.)
+6. Remote job boards (if remote/hybrid preferred)
+
+Additional preferences:
+- Remote preference: hybrid
+- Company size: startup, medium, enterprise
+- Salary range: $350000-$600000
+- Focus on work-life balance companies
+
+
+For each job found, extract:
+- Company name
+- Job title (exact)
+- Location (city, state/country, remote status)
+- Direct application URL (CRITICAL: Find the actual job posting URL, not the careers page)
+- Job description link (Direct link to full JD if different from application URL)
+- Salary range (if available)
+- Key requirements (top 5)
+- Posted date
+- Job type (full-time, part-time, contract)
+- Company size estimate
+
+IMPORTANT: For job links, prioritize:
+1. Direct job posting URLs (e.g., company.com/jobs/position-id)
+2. LinkedIn job URLs (linkedin.com/jobs/view/job-id)
+3. Seek.com.au job URLs (seek.com.au/job/job-id)
+4. Indeed job URLs (au.indeed.com/viewjob?jk=job-id)
+AVOID: Generic careers pages without specific job links
+
+Find at least 20 relevant positions.
+
+Format output as JSON array and save to: ./data/job_search_results.json
+
+Example format:
+[
+  {
+    "company": "TechCorp",
+    "title": "Senior Software Engineer",
+    "location": "San Francisco, CA (Hybrid)",
+    "url": "https://careers.techcorp.com/jobs/123",
+    "jd_link": "https://careers.techcorp.com/jobs/123/description",
+    "salary_min": 150000,
+    "salary_max": 200000,
+    "requirements": ["Python", "AWS", "5+ years experience", "Django", "Leadership"],
+    "posted_date": "2024-01-15",
+    "job_type": "full-time",
+    "company_size": "1000-5000",
+    "description_snippet": "First 200 chars of job description..."
+  }
+]

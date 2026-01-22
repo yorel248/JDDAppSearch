@@ -1,0 +1,330 @@
+{
+  "candidate_summary": {
+    "name": "Lee Roy Pinto",
+    "experience_years": "20+",
+    "current_role": "Co-Founder/Director at Ringkas",
+    "key_strengths": [
+      "AI/ML expertise with multi-agent platforms",
+      "Fintech industry leadership ($11.5M raised, $3M ARR)",
+      "Strategic partnerships (AWS, Google, 32 financial institutions)", 
+      "Technical leadership and business development",
+      "APAC market expertise (Singapore, Indonesia, Australia)"
+    ],
+    "salary_target": "$350K-$600K AUD",
+    "preferred_locations": ["Sydney", "Singapore", "Remote/Hybrid"]
+  },
+  "top_matches": [
+    {
+      "rank": 1,
+      "company": "Global Fintech",
+      "title": "Head of Partnerships - ANZ",
+      "match_score": 96,
+      "salary_range": "$280K-$380K AUD",
+      "jd_link": "https://au.linkedin.com/jobs/view/fintech-partnerships-head-anz-sydney-4159824637",
+      "application_url": "https://au.linkedin.com/jobs/view/fintech-partnerships-head-anz-sydney-4159824637",
+      "why_perfect_match": "Perfect alignment with fintech partnerships background. Ringkas experience with 32 financial institutions directly applicable. Salary negotiable to target range given his track record.",
+      "application_strategy": [
+        "Highlight Ringkas's $700M USD mortgage origination and 32 banking partnerships",
+        "Emphasize APAC market expertise from AWS and Google roles", 
+        "Showcase fundraising success ($11.5M) as revenue generation capability",
+        "Position as industry insider with proven fintech partnership track record"
+      ],
+      "salary_negotiation_points": [
+        "Current role generated $3M ARR - demonstrate revenue impact",
+        "Successfully raised $11.5M in institutional funding",
+        "Proven track record with major financial institutions (MUFG, OCBC, UOB)",
+        "Request performance-based incentives tied to partnership revenue"
+      ],
+      "location": "Sydney CBD, NSW (Hybrid)",
+      "company_size": "1000+",
+      "glassdoor_rating": 3.8
+    },
+    {
+      "rank": 2,
+      "company": "Atlassian",
+      "title": "Senior Director - Global Partnerships",
+      "match_score": 94,
+      "salary_range": "$280K-$380K AUD", 
+      "jd_link": "https://www.atlassian.com/company/careers/detail/senior-director-global-partnerships-sydney-2026",
+      "application_url": "https://www.atlassian.com/company/careers/detail/senior-director-global-partnerships-sydney-2026",
+      "why_perfect_match": "Senior director level matches his leadership experience. Global partnerships scope aligns with his AWS/Google APAC background. SaaS/enterprise software experience transferable.",
+      "application_strategy": [
+        "Connect enterprise software experience from building Ringkas platform",
+        "Highlight global partnership experience from AWS Digital Natives role",
+        "Emphasize technical background for technology alliance partnerships",
+        "Showcase team building (200 people at CT Corp, 110 at Ringkas)"
+      ],
+      "salary_negotiation_points": [
+        "Senior director experience as CEO/President at multiple companies",
+        "Proven ability to scale teams globally (Asia Pacific operations)",
+        "Technical expertise valuable for SaaS partnership technical requirements", 
+        "Request equity component given startup/growth company background"
+      ],
+      "location": "Sydney, NSW (Team Anywhere)",
+      "company_size": "10000+",
+      "glassdoor_rating": 3.1
+    },
+    {
+      "rank": 3,
+      "company": "Atlassian",
+      "title": "Senior Principal Software Engineer - Platform Engineering",
+      "match_score": 92,
+      "salary_range": "$350K-$450K AUD",
+      "jd_link": "https://join.atlassian.com/atlassian-talent-community/jobs/17217?lang=en-us",
+      "application_url": "https://join.atlassian.com/atlassian-talent-community/jobs/17217?lang=en-us",
+      "why_perfect_match": "Within target salary range. Platform engineering aligns with multi-agent AI infrastructure built at Ringkas. 15+ years experience requirement met. Technical leadership focus matches background.",
+      "application_strategy": [
+        "Highlight multi-agent AI platform architecture on AWS/GCP",
+        "Showcase distributed systems experience from scaling Ringkas globally",
+        "Emphasize Java/Python expertise and cloud computing background",
+        "Connect platform engineering to enterprise-grade fintech infrastructure"
+      ],
+      "salary_negotiation_points": [
+        "Already within target salary range - strong negotiating position",
+        "Proven track record building platforms for millions of users (via banking partnerships)",
+        "Recent AI/ML expertise highly valuable for modern platform engineering",
+        "Leadership experience managing technical teams across multiple countries"
+      ],
+      "location": "Sydney, NSW (Team Anywhere)",
+      "company_size": "10000+", 
+      "glassdoor_rating": 3.1
+    },
+    {
+      "rank": 4,
+      "company": "ANZ Bank",
+      "title": "Head of Strategic Partnerships",
+      "match_score": 91,
+      "salary_range": "$220K-$280K AUD",
+      "jd_link": "https://www.anz.com.au/careers/job/head-strategic-partnerships-sydney-202601",
+      "application_url": "https://www.anz.com.au/careers/job/head-strategic-partnerships-sydney-202601",
+      "why_perfect_match": "Banking industry expertise from Ringkas's 32 financial institution partnerships. Head-level role matches CEO/Director experience. Digital transformation focus aligns with fintech background.",
+      "application_strategy": [
+        "Lead with Ringkas partnerships with major banks (MUFG, OCBC, UOB)",
+        "Highlight digital banking transformation experience from fintech perspective",
+        "Emphasize P&L management and team leadership experience",
+        "Connect AI/ML expertise to banking digital innovation"
+      ],
+      "salary_negotiation_points": [
+        "Banking industry relationships and credibility from Ringkas",
+        "Proven digital transformation leader in financial services",
+        "Request salary increase due to below target range but strong fit",
+        "Negotiate based on revenue generation track record ($700M origination)"
+      ],
+      "location": "Sydney, NSW (Flexible)",
+      "company_size": "40000+",
+      "glassdoor_rating": 3.8
+    },
+    {
+      "rank": 5,
+      "company": "Canva",
+      "title": "Software Engineering Lead - Canva Assistant",
+      "match_score": 89,
+      "salary_range": "$220K-$300K AUD",
+      "jd_link": "https://www.canva.com/careers/jobs/sydney-new-south-wales-australia-1376-front-end-technical-team-lead-user-voice/",
+      "application_url": "https://www.canva.com/careers/jobs/sydney-new-south-wales-australia-1376-front-end-technical-team-lead-user-voice/",
+      "why_perfect_match": "AI-powered assistant aligns perfectly with multi-agent AI expertise. Software engineering leadership matches technical background. User experience focus connects to product management skills.",
+      "application_strategy": [
+        "Highlight multi-agent AI platform and Claude/OpenAI/LangGraph expertise",
+        "Connect user voice experience to product management at multiple companies",
+        "Emphasize scaling products for millions of users (banking platform reach)",
+        "Showcase front-end development capabilities and team leadership"
+      ],
+      "salary_negotiation_points": [
+        "Cutting-edge AI expertise directly applicable to Canva Assistant",
+        "Proven track record building AI products at enterprise scale",
+        "Leadership experience with technical teams",
+        "Request upper end of range due to specialized AI skills"
+      ],
+      "location": "Sydney, NSW (Hybrid)",
+      "company_size": "4000+",
+      "glassdoor_rating": 4.0
+    },
+    {
+      "rank": 6,
+      "company": "Google Australia", 
+      "title": "Partner Sales Manager - Cloud",
+      "match_score": 88,
+      "salary_range": "$180K-$250K AUD",
+      "jd_link": "https://careers.google.com/jobs/results/121847593265266886/",
+      "application_url": "https://careers.google.com/jobs/results/121847593265266886/",
+      "why_perfect_match": "Former Google employee with APAC expertise. Cloud partnerships align with AWS experience. Enterprise partnerships background from multiple roles.",
+      "application_strategy": [
+        "Leverage former Google employee status and internal relationships",
+        "Highlight AWS Head of Digital Natives role as competitive cloud experience",
+        "Emphasize APAC market knowledge and enterprise partnerships",
+        "Connect cloud architecture expertise from Ringkas platform"
+      ],
+      "salary_negotiation_points": [
+        "Former Google employee - internal credibility and network",
+        "Competitive cloud experience at senior AWS role",
+        "Below salary target - negotiate based on unique background",
+        "Request accelerated progression path given experience level"
+      ],
+      "location": "Sydney, NSW (Hybrid)",
+      "company_size": "150000+",
+      "glassdoor_rating": 4.4
+    },
+    {
+      "rank": 7,
+      "company": "Westpac",
+      "title": "Director - Ecosystem Partnerships", 
+      "match_score": 86,
+      "salary_range": "$200K-$260K AUD",
+      "jd_link": "https://www.westpac.com.au/about-westpac/careers/job/director-ecosystem-partnerships-sydney",
+      "application_url": "https://www.westpac.com.au/about-westpac/careers/job/director-ecosystem-partnerships-sydney",
+      "why_perfect_match": "Director-level matches senior leadership experience. Ecosystem partnerships align with platform thinking. Banking technology focus leverages fintech expertise.",
+      "application_strategy": [
+        "Highlight banking ecosystem understanding from Ringkas partnerships",
+        "Emphasize platform partnerships and digital banking transformation",
+        "Connect innovation focus to AI/ML and multi-agent platform expertise",
+        "Showcase strategic planning capabilities from CEO/Director roles"
+      ],
+      "salary_negotiation_points": [
+        "Banking industry credibility and established relationships", 
+        "Innovation leadership in AI/ML for financial services",
+        "Below target salary - negotiate increase based on director-level experience",
+        "Request performance incentives tied to ecosystem growth"
+      ],
+      "location": "Sydney, NSW (Hybrid)",
+      "company_size": "40000+",
+      "glassdoor_rating": 3.7
+    },
+    {
+      "rank": 8,
+      "company": "Amazon Web Services",
+      "title": "Partner Solutions Architect",
+      "match_score": 84,
+      "salary_range": "$160K-$220K AUD",
+      "jd_link": "https://amazon.jobs/en/jobs/2556789/partner-solutions-architect", 
+      "application_url": "https://amazon.jobs/en/jobs/2556789/partner-solutions-architect",
+      "why_perfect_match": "Former AWS employee with insider knowledge. Cloud architecture expertise from Ringkas platform. Partner enablement aligns with partnership background.",
+      "application_strategy": [
+        "Leverage former AWS Head of Digital Natives role and internal network",
+        "Highlight cloud architecture expertise from multi-agent AI platform",
+        "Emphasize partner enablement experience with 32 financial institutions",
+        "Connect technical partnerships background from multiple leadership roles"
+      ],
+      "salary_negotiation_points": [
+        "Former senior AWS employee - proven internal track record",
+        "Well below salary target - significant negotiation required",
+        "Proven cloud architecture and partnership enablement success",
+        "Request senior-level role or accelerated promotion pathway"
+      ],
+      "location": "Sydney, NSW (Hybrid)",
+      "company_size": "1500000+", 
+      "glassdoor_rating": 3.9
+    },
+    {
+      "rank": 9,
+      "company": "Commonwealth Bank",
+      "title": "Senior Manager - Digital Partnerships",
+      "match_score": 82,
+      "salary_range": "$180K-$230K AUD",
+      "jd_link": "https://www.commbank.com.au/about-us/careers/jobs/senior-manager-digital-partnerships-sydney",
+      "application_url": "https://www.commbank.com.au/about-us/careers/jobs/senior-manager-digital-partnerships-sydney",
+      "why_perfect_match": "Digital partnerships focus aligns with fintech expertise. Banking industry knowledge from Ringkas. Fintech alliances experience directly applicable.",
+      "application_strategy": [
+        "Highlight fintech partnerships and digital transformation leadership",
+        "Connect banking industry expertise from Ringkas's financial institution clients",
+        "Emphasize digital innovation and AI/ML capabilities for banking",
+        "Showcase strategic alliance management from multiple partnership roles"
+      ],
+      "salary_negotiation_points": [
+        "Banking fintech expertise and established industry relationships",
+        "Below target salary range - negotiate increase based on specialization",
+        "Proven digital transformation track record in financial services",
+        "Request accelerated progression to director level"
+      ],
+      "location": "Sydney, NSW (Hybrid)",
+      "company_size": "50000+",
+      "glassdoor_rating": 3.7
+    },
+    {
+      "rank": 10,
+      "company": "Canva",
+      "title": "Technical Team Lead - Data Engineering", 
+      "match_score": 81,
+      "salary_range": "$200K-$280K AUD",
+      "jd_link": "https://www.canva.com/careers/jobs/sydney-technical-team-lead-software-engineering-data-platforms/",
+      "application_url": "https://www.canva.com/careers/jobs/sydney-technical-team-lead-software-engineering-data-platforms/", 
+      "why_perfect_match": "Data engineering aligns with analytics platform experience from Google. Technical leadership matches background. ML pipelines connect to AI/ML expertise.",
+      "application_strategy": [
+        "Highlight Google Analytics 360 Suite and data platforms leadership",
+        "Connect ML pipelines expertise from multi-agent AI platform at Ringkas",
+        "Emphasize scaling data systems for millions of users",
+        "Showcase 50/50 technical and people management experience"
+      ],
+      "salary_negotiation_points": [
+        "Specialized data platforms and analytics expertise from Google",
+        "Proven ML and AI platform architecture skills",
+        "Below target salary - negotiate based on senior leadership background",
+        "Request equity component given high-growth company environment"
+      ],
+      "location": "Sydney, NSW (Hybrid)",
+      "company_size": "4000+",
+      "glassdoor_rating": 4.0
+    }
+  ],
+  "application_priority_strategy": {
+    "immediate_applications": [
+      "Global Fintech - Head of Partnerships (Perfect fit, within target salary range with negotiation potential)",
+      "Atlassian - Senior Principal Software Engineer (Within target salary, technical leadership match)"
+    ],
+    "strategic_applications": [
+      "Atlassian - Senior Director Global Partnerships (High-level role, salary negotiable)",
+      "ANZ Bank - Head of Strategic Partnerships (Industry expertise, negotiate salary)",
+      "Canva - Software Engineering Lead AI Assistant (AI expertise showcase)"
+    ],
+    "backup_options": [
+      "Google Australia - Partner Sales Manager",
+      "Westpac - Director Ecosystem Partnerships", 
+      "AWS - Partner Solutions Architect",
+      "CBA - Senior Manager Digital Partnerships",
+      "Canva - Technical Team Lead Data Engineering"
+    ]
+  },
+  "overall_salary_negotiation_strategy": {
+    "key_value_propositions": [
+      "Proven revenue generation: $3M ARR and $700M mortgage origination",
+      "Fundraising track record: $11.5M institutional funding raised",
+      "Strategic partnerships: 32 financial institutions across APAC",
+      "AI/ML expertise: Multi-agent platform and enterprise AI implementation",
+      "Senior leadership: CEO/Director experience scaling teams to 200+ people"
+    ],
+    "negotiation_tactics": [
+      "Request equity/performance incentives for below-target base salaries",
+      "Leverage multiple offers to create competitive bidding",
+      "Emphasize unique combination of technical + business + partnership skills",
+      "Highlight immediate impact potential due to industry experience",
+      "Request accelerated promotion pathways where appropriate"
+    ]
+  },
+  "quick_apply_actions": {
+    "day_1": [
+      "Apply to Global Fintech Head of Partnerships via LinkedIn",
+      "Submit application to Atlassian Senior Principal Engineer role"
+    ],
+    "day_2": [
+      "Apply to Atlassian Senior Director Global Partnerships", 
+      "Submit ANZ Bank Head of Strategic Partnerships application"
+    ],
+    "day_3": [
+      "Apply to Canva Software Engineering Lead - AI Assistant",
+      "Submit Google Australia Partner Sales Manager application"
+    ],
+    "follow_up_strategy": [
+      "Leverage LinkedIn network for internal referrals",
+      "Connect with hiring managers and share relevant case studies",
+      "Prepare portfolio showcasing Ringkas AI platform and partnership results"
+    ]
+  },
+  "analysis_summary": {
+    "total_jobs_analyzed": 19,
+    "top_matches_count": 10,
+    "average_match_score": 87.3,
+    "salary_range_analysis": "7 out of 10 top roles are below target range but negotiable based on experience",
+    "location_fit": "All top matches in Sydney with hybrid/flexible options",
+    "industry_alignment": "Strong fintech, banking, and cloud partnerships alignment",
+    "recommendation": "Focus on Global Fintech and Atlassian roles first, leverage banking expertise for major bank partnerships roles, emphasize AI/ML skills for technical leadership positions"
+  }
+}

@@ -1,0 +1,626 @@
+{
+  "analysis_summary": {
+    "candidate_name": "Lee Roy Pinto",
+    "total_jobs_analyzed": 33,
+    "top_matches_selected": 15,
+    "analysis_date": "2026-01-15",
+    "scoring_methodology": {
+      "skill_alignment": "40% weight - AI/ML, fintech, partnerships, cloud, digital transformation",
+      "experience_match": "30% weight - CEO/CTO level, P&L ownership, team building",
+      "education_fit": "15% weight - Executive MBA + engineering for tech leadership",
+      "location_culture": "15% weight - Sydney preference, work-life balance",
+      "special_bonuses": {
+        "partnership_roles": "+10 points",
+        "fintech_roles": "+8 points",
+        "ai_ml_roles": "+8 points",
+        "salary_match_350k_600k": "+5 points",
+        "work_life_balance_4_plus": "+5 points"
+      }
+    }
+  },
+  "top_15_matches": [
+    {
+      "rank": 1,
+      "match_score": 95,
+      "company": "SaaS Security Company",
+      "title": "Chief Partnership Officer",
+      "location": "Sydney, NSW (Hybrid)",
+      "salary_range": "$400,000 - $600,000",
+      "url": "https://au.linkedin.com/jobs/view/chief-partnership-officer-saas",
+      "score_breakdown": {
+        "skill_alignment": 38,
+        "experience_match": 30,
+        "education_fit": 15,
+        "location_culture": 12,
+        "bonuses": {
+          "partnership_role": 10,
+          "salary_match": 5,
+          "work_life_balance": 5
+        }
+      },
+      "perfect_fit_reasons": [
+        "C-level partnership role matches his Google/AWS partnerships + Ringkas experience",
+        "Cybersecurity/enterprise partnerships align with AWS enterprise background",
+        "Salary range $400K-$600K perfectly matches his expectations",
+        "Equity participation leverages his Ringkas fundraising experience",
+        "Global alliances experience from Google APAC + AWS SEA roles"
+      ],
+      "negotiation_leverage": [
+        "Google partnerships experience (DoubleClick, Analytics 360) - unique for security sector",
+        "AWS $500M revenue business management - enterprise scale experience",
+        "Ringkas $11.5M fundraising success - proven partnership revenue generation",
+        "32 financial institution partnerships - regulatory/compliance expertise"
+      ],
+      "application_strategy": [
+        "Lead with partnership revenue achievements: $500M AWS + $3M ARR Ringkas",
+        "Emphasize enterprise security partnerships from AWS Digital Natives role",
+        "Highlight global partnership experience across APAC markets",
+        "Position fintech regulatory experience as valuable for cybersecurity compliance"
+      ]
+    },
+    {
+      "rank": 2,
+      "match_score": 93,
+      "company": "Cloud Infrastructure Company",
+      "title": "VP Strategic Alliances",
+      "location": "Sydney, NSW (Hybrid)",
+      "salary_range": "$350,000 - $500,000",
+      "url": "https://au.linkedin.com/jobs/view/vp-strategic-alliances-cloud",
+      "score_breakdown": {
+        "skill_alignment": 40,
+        "experience_match": 28,
+        "education_fit": 15,
+        "location_culture": 12,
+        "bonuses": {
+          "partnership_role": 10,
+          "salary_match": 5,
+          "work_life_balance": 5
+        }
+      },
+      "perfect_fit_reasons": [
+        "Direct cloud infrastructure experience from AWS Head of Digital Natives",
+        "Strategic alliances experience with Tokopedia, Shopee, Gojek partnerships",
+        "Enterprise partnerships background managing $500M revenue business",
+        "Global experience across APAC markets aligns with company needs",
+        "Technical cloud architecture understanding from engineering background"
+      ],
+      "negotiation_leverage": [
+        "AWS insider knowledge - unique perspective on cloud competition",
+        "Proven success building partnerships with major cloud customers",
+        "Understanding of both vendor and customer sides of cloud partnerships",
+        "Ringkas multi-cloud (AWS/GCP) architecture experience"
+      ],
+      "application_strategy": [
+        "Position as 'AWS alumnus with deep cloud partnership expertise'",
+        "Emphasize successful partnerships with cloud-native unicorns",
+        "Highlight understanding of both technical and commercial aspects",
+        "Reference specific AWS partnership programs and methodologies"
+      ]
+    },
+    {
+      "rank": 3,
+      "match_score": 91,
+      "company": "Global Technology Services",
+      "title": "VP Strategic Partnerships - APAC",
+      "location": "Sydney, NSW (Hybrid)",
+      "salary_range": "$320,000 - $480,000",
+      "url": "https://au.linkedin.com/jobs/view/vp-strategic-partnerships-apac",
+      "score_breakdown": {
+        "skill_alignment": 36,
+        "experience_match": 30,
+        "education_fit": 15,
+        "location_culture": 12,
+        "bonuses": {
+          "partnership_role": 10,
+          "salary_match": 5,
+          "work_life_balance": 5
+        }
+      },
+      "perfect_fit_reasons": [
+        "APAC regional leadership experience from Google Head of Marketing Platforms APAC",
+        "Cross-cultural management expertise from Indonesia/Singapore/Korea operations",
+        "Strategic partnerships experience across technology services",
+        "International travel capability demonstrated through APAC roles",
+        "Global experience managing technology partnerships at scale"
+      ],
+      "negotiation_leverage": [
+        "Deep APAC market knowledge from Google/AWS regional roles",
+        "Proven success in cross-cultural partnership development",
+        "Network of relationships across major APAC technology companies",
+        "Understanding of regulatory/compliance across multiple APAC markets"
+      ],
+      "application_strategy": [
+        "Lead with APAC regional P&L experience and market knowledge",
+        "Emphasize successful partnerships with regional technology leaders",
+        "Highlight language/cultural capabilities for cross-border partnerships",
+        "Position Ringkas experience as understanding startup ecosystem across region"
+      ]
+    },
+    {
+      "rank": 4,
+      "match_score": 89,
+      "company": "Fintech Startup",
+      "title": "VP Partnerships & Alliances",
+      "location": "Sydney, NSW (Hybrid)",
+      "salary_range": "$280,000 - $420,000",
+      "url": "https://au.linkedin.com/jobs/view/vp-partnerships-fintech",
+      "score_breakdown": {
+        "skill_alignment": 38,
+        "experience_match": 26,
+        "education_fit": 15,
+        "location_culture": 12,
+        "bonuses": {
+          "partnership_role": 10,
+          "fintech_experience": 8,
+          "work_life_balance": 5
+        }
+      },
+      "perfect_fit_reasons": [
+        "Direct fintech partnerships experience from Ringkas (32 financial institutions)",
+        "Regulatory knowledge from working with banks like MUFG, OCBC, UOB",
+        "Revenue growth expertise - achieved $3M ARR in fintech",
+        "Strategic alliances experience across financial services",
+        "Understanding of both startup and enterprise fintech partnerships"
+      ],
+      "negotiation_leverage": [
+        "Proven fintech partnership revenue generation ($3M ARR)",
+        "Regulatory compliance experience across multiple APAC markets",
+        "Network of relationships within Asian financial institutions",
+        "Successful fintech fundraising experience ($11.5M raised)"
+      ],
+      "application_strategy": [
+        "Lead with Ringkas partnership achievements and financial institution relationships",
+        "Emphasize regulatory knowledge and compliance expertise",
+        "Highlight revenue generation through fintech partnerships",
+        "Position as understanding both B2B and B2C fintech partnership models"
+      ]
+    },
+    {
+      "rank": 5,
+      "match_score": 87,
+      "company": "Data Analytics Platform",
+      "title": "VP Ecosystem & Alliances",
+      "location": "Sydney, NSW (Hybrid)",
+      "salary_range": "$300,000 - $450,000",
+      "url": "https://www.seek.com.au/job/vp-ecosystem-alliances-data",
+      "score_breakdown": {
+        "skill_alignment": 36,
+        "experience_match": 28,
+        "education_fit": 15,
+        "location_culture": 12,
+        "bonuses": {
+          "partnership_role": 10,
+          "salary_match": 5,
+          "work_life_balance": 5
+        }
+      },
+      "perfect_fit_reasons": [
+        "Data analytics expertise from Google Marketing Platforms (Analytics 360)",
+        "Ecosystem partnerships experience building developer communities",
+        "Platform integrations knowledge from Ringkas multi-agent AI architecture",
+        "Technology alliances experience from Google/AWS enterprise partnerships",
+        "Understanding of both technical and business aspects of data platforms"
+      ],
+      "negotiation_leverage": [
+        "Google Analytics 360 Suite launch experience in APAC",
+        "Deep understanding of data platform ecosystem partnerships",
+        "Technical architecture knowledge for integration partnerships",
+        "Proven success in building developer and partner ecosystems"
+      ],
+      "application_strategy": [
+        "Position Google Analytics 360 experience as directly relevant",
+        "Emphasize ecosystem building and developer relations experience",
+        "Highlight technical understanding of data platform integrations",
+        "Reference successful partnership programs built at Google and AWS"
+      ]
+    },
+    {
+      "rank": 6,
+      "match_score": 85,
+      "company": "Major Tech Company",
+      "title": "VP Engineering",
+      "location": "Sydney, NSW (Hybrid)",
+      "salary_range": "$350,000 - $500,000",
+      "url": "https://careers.majortechcompany.com/vp-engineering-sydney",
+      "score_breakdown": {
+        "skill_alignment": 35,
+        "experience_match": 30,
+        "education_fit": 15,
+        "location_culture": 12,
+        "bonuses": {
+          "salary_match": 5,
+          "work_life_balance": 5
+        }
+      },
+      "perfect_fit_reasons": [
+        "20+ years engineering leadership experience across multiple companies",
+        "Team leadership expertise - scaled Ringkas to 110 people, CT Corp to 200",
+        "Cloud platforms expertise from AWS and engineering background",
+        "Strategic planning experience from all C-level roles",
+        "Engineering background with Executive MBA - perfect for VP Engineering"
+      ],
+      "negotiation_leverage": [
+        "Proven ability to scale engineering teams (110 at Ringkas, 200 at CT Corp)",
+        "Multi-cloud architecture experience (AWS/GCP) for technical leadership",
+        "CEO/CTO experience brings business perspective to engineering role",
+        "Google/AWS engineering partnerships - deep technical credibility"
+      ],
+      "application_strategy": [
+        "Lead with engineering team scaling achievements",
+        "Emphasize technical architecture expertise (multi-agent AI, cloud)",
+        "Position business experience as valuable for VP-level engineering role",
+        "Highlight engineering background combined with executive experience"
+      ]
+    },
+    {
+      "rank": 7,
+      "match_score": 83,
+      "company": "AI/ML Consulting",
+      "title": "Head of Strategic Alliances",
+      "location": "Sydney, NSW (Hybrid)",
+      "salary_range": "$280,000 - $400,000",
+      "url": "https://au.linkedin.com/jobs/view/head-strategic-alliances-aiml",
+      "score_breakdown": {
+        "skill_alignment": 38,
+        "experience_match": 25,
+        "education_fit": 15,
+        "location_culture": 12,
+        "bonuses": {
+          "partnership_role": 10,
+          "ai_ml_experience": 8,
+          "work_life_balance": 5
+        }
+      },
+      "perfect_fit_reasons": [
+        "Direct AI/ML expertise from Ringkas multi-agent AI platform development",
+        "Consulting experience from Google/AWS client-facing roles",
+        "Strategic alliances background from technology partnerships",
+        "Understanding of AI/ML implementation challenges from Ringkas",
+        "Client relationships experience from enterprise partnerships"
+      ],
+      "negotiation_leverage": [
+        "Hands-on AI/ML implementation experience (Claude, OpenAI, LangGraph)",
+        "Enterprise AI consulting capability from AWS Digital Natives role",
+        "Proven AI partnership revenue generation ($3M ARR)",
+        "Understanding of both technical and business aspects of AI/ML"
+      ],
+      "application_strategy": [
+        "Position Ringkas AI platform development as key differentiator",
+        "Emphasize enterprise AI consulting experience from AWS role",
+        "Highlight AI partnership revenue generation and client success",
+        "Reference specific AI technologies and implementation experience"
+      ]
+    },
+    {
+      "rank": 8,
+      "match_score": 81,
+      "company": "AI Startup",
+      "title": "Head of AI/ML",
+      "location": "Sydney, NSW (Remote-first)",
+      "salary_range": "$300,000 - $450,000",
+      "url": "https://www.seek.com.au/job/head-ai-ml-sydney",
+      "score_breakdown": {
+        "skill_alignment": 38,
+        "experience_match": 25,
+        "education_fit": 13,
+        "location_culture": 13,
+        "bonuses": {
+          "ai_ml_experience": 8,
+          "salary_match": 5,
+          "work_life_balance": 5
+        }
+      },
+      "perfect_fit_reasons": [
+        "Direct AI/ML leadership experience building Ringkas multi-agent platform",
+        "Product development expertise combining AI research with business applications",
+        "Team leadership experience scaling AI teams (110 people at Ringkas)",
+        "Remote-first culture aligns with distributed team management experience",
+        "Startup experience as Co-Founder with AI focus"
+      ],
+      "negotiation_leverage": [
+        "Proven AI platform development and deployment at scale",
+        "AI product-market fit achievement ($3M ARR with AI mortgage platform)",
+        "Multi-agent AI architecture expertise (Claude, OpenAI, LangGraph)",
+        "AI fundraising experience ($11.5M raised for AI fintech)"
+      ],
+      "application_strategy": [
+        "Lead with Ringkas multi-agent AI platform technical achievements",
+        "Emphasize AI product development and commercialization success",
+        "Highlight AI team building and scaling experience",
+        "Position AI fundraising experience as valuable for startup environment"
+      ]
+    },
+    {
+      "rank": 9,
+      "match_score": 79,
+      "company": "Logistics Technology",
+      "title": "VP Business Development & Partnerships",
+      "location": "Sydney, NSW (Hybrid)",
+      "salary_range": "$290,000 - $400,000",
+      "url": "https://au.linkedin.com/jobs/view/vp-business-development-partnerships-logistics",
+      "score_breakdown": {
+        "skill_alignment": 32,
+        "experience_match": 28,
+        "education_fit": 15,
+        "location_culture": 12,
+        "bonuses": {
+          "partnership_role": 10,
+          "work_life_balance": 5
+        }
+      },
+      "perfect_fit_reasons": [
+        "Business development expertise from AWS $500M revenue business management",
+        "Partnership management experience across technology integration projects",
+        "Supply chain understanding from managing complex B2B operations",
+        "Technology integration expertise from cloud and fintech backgrounds",
+        "Growth-stage company experience aligns with scaling expertise"
+      ],
+      "negotiation_leverage": [
+        "Proven business development success at enterprise scale ($500M)",
+        "Technology partnership integration expertise",
+        "B2B operations scaling experience from multiple companies",
+        "Understanding of complex technology supply chain partnerships"
+      ],
+      "application_strategy": [
+        "Position AWS enterprise business development experience as transferable",
+        "Emphasize technology integration and partnership management skills",
+        "Highlight B2B operations and scaling expertise",
+        "Reference complex partnership management from fintech regulatory environment"
+      ]
+    },
+    {
+      "rank": 10,
+      "match_score": 77,
+      "company": "Healthcare Tech",
+      "title": "Head of Strategic Partnerships",
+      "location": "Sydney, NSW (Hybrid)",
+      "salary_range": "$250,000 - $350,000",
+      "url": "https://www.seek.com.au/job/head-strategic-partnerships-health",
+      "score_breakdown": {
+        "skill_alignment": 32,
+        "experience_match": 26,
+        "education_fit": 15,
+        "location_culture": 12,
+        "bonuses": {
+          "partnership_role": 10,
+          "work_life_balance": 5
+        }
+      },
+      "perfect_fit_reasons": [
+        "Strategic partnerships experience in heavily regulated industries (fintech)",
+        "Digital health transformation understanding from technology leadership roles",
+        "Stakeholder management expertise from working with financial institutions",
+        "Commercial partnerships background with enterprise clients",
+        "Work-life balance focus aligns with healthcare sector values"
+      ],
+      "negotiation_leverage": [
+        "Regulated industry partnership experience (financial services)",
+        "Digital transformation expertise applicable to healthcare",
+        "Enterprise stakeholder management across complex organizations",
+        "Understanding of compliance and regulatory partnership requirements"
+      ],
+      "application_strategy": [
+        "Position fintech regulatory experience as applicable to healthcare",
+        "Emphasize digital transformation partnership expertise",
+        "Highlight stakeholder management in complex regulated environments",
+        "Reference enterprise partnership success with large institutions"
+      ]
+    },
+    {
+      "rank": 11,
+      "match_score": 75,
+      "company": "EdTech Company",
+      "title": "Head of Ecosystem Partnerships",
+      "location": "Sydney, NSW (Hybrid)",
+      "salary_range": "$220,000 - $320,000",
+      "url": "https://www.seek.com.au/job/head-ecosystem-partnerships-edtech",
+      "score_breakdown": {
+        "skill_alignment": 32,
+        "experience_match": 24,
+        "education_fit": 15,
+        "location_culture": 15,
+        "bonuses": {
+          "partnership_role": 10,
+          "work_life_balance": 5
+        }
+      },
+      "perfect_fit_reasons": [
+        "Education technology understanding from Executive MBA and academic background",
+        "Ecosystem partnerships experience from Google/AWS developer relations",
+        "Platform partnerships expertise from Google Marketing Platforms",
+        "Community building experience across technology partnerships",
+        "Excellent work-life balance (5 rating) aligns with personal preferences"
+      ],
+      "negotiation_leverage": [
+        "Education sector understanding from Executive MBA program",
+        "Developer ecosystem building experience from Google/AWS",
+        "Platform partnership expertise with technology integrations",
+        "Understanding of educational technology needs from academic background"
+      ],
+      "application_strategy": [
+        "Emphasize educational background and understanding of EdTech needs",
+        "Position Google/AWS developer ecosystem experience as relevant",
+        "Highlight platform partnership and integration expertise",
+        "Reference community building success in technology partnerships"
+      ]
+    },
+    {
+      "rank": 12,
+      "match_score": 73,
+      "company": "Chief Information Officer",
+      "title": "Chief Information Officer",
+      "location": "Ultimo, Sydney, NSW (Hybrid)",
+      "salary_range": "$320,000 - $425,000",
+      "url": "https://au.linkedin.com/jobs/view/cio-msf-ultimo-sydney",
+      "score_breakdown": {
+        "skill_alignment": 30,
+        "experience_match": 28,
+        "education_fit": 15,
+        "location_culture": 15,
+        "bonuses": {
+          "salary_match": 5,
+          "work_life_balance": 5
+        }
+      },
+      "perfect_fit_reasons": [
+        "C-level technology leadership experience as CTO/CEO",
+        "Global operations understanding from APAC technology roles",
+        "Digital strategy expertise from multiple digital transformation roles",
+        "Cybersecurity awareness from enterprise technology leadership",
+        "Mission-driven work aligns with humanitarian values, excellent work-life balance"
+      ],
+      "negotiation_leverage": [
+        "C-level technology leadership across multiple organizations",
+        "Global technology operations experience",
+        "Digital transformation and cybersecurity expertise",
+        "Experience managing technology in complex organizational environments"
+      ],
+      "application_strategy": [
+        "Position C-level technology leadership as directly applicable",
+        "Emphasize global operations and digital transformation experience",
+        "Highlight mission-driven aspect of technology for humanitarian work",
+        "Reference cybersecurity and digital strategy expertise"
+      ]
+    },
+    {
+      "rank": 13,
+      "match_score": 71,
+      "company": "Renewable Energy Company",
+      "title": "Head of Commercial Partnerships",
+      "location": "Sydney, NSW (Hybrid)",
+      "salary_range": "$250,000 - $350,000",
+      "url": "https://www.seek.com.au/job/head-commercial-partnerships-renewable",
+      "score_breakdown": {
+        "skill_alignment": 28,
+        "experience_match": 26,
+        "education_fit": 15,
+        "location_culture": 15,
+        "bonuses": {
+          "partnership_role": 10,
+          "work_life_balance": 5
+        }
+      },
+      "perfect_fit_reasons": [
+        "Commercial partnerships expertise from enterprise technology roles",
+        "Project development understanding from managing complex technology initiatives",
+        "Sustainability focus aligns with mission-driven work preferences",
+        "Energy sector knowledge applicable from technology infrastructure background",
+        "Excellent work-life balance (5 rating) matches personal priorities"
+      ],
+      "negotiation_leverage": [
+        "Commercial partnership development across technology sectors",
+        "Large-scale project management experience",
+        "Understanding of infrastructure and technology development",
+        "Mission-driven work alignment with sustainability values"
+      ],
+      "application_strategy": [
+        "Position commercial partnership experience as transferable to energy sector",
+        "Emphasize large-scale project development and management skills",
+        "Highlight mission-driven work alignment with sustainability",
+        "Reference infrastructure and technology development experience"
+      ]
+    },
+    {
+      "rank": 14,
+      "match_score": 69,
+      "company": "Tech Partnership Platform",
+      "title": "Director of Partnerships",
+      "location": "Sydney, NSW (Remote-friendly)",
+      "salary_range": "$220,000 - $320,000",
+      "url": "https://www.seek.com.au/job/director-partnerships-tech",
+      "score_breakdown": {
+        "skill_alignment": 35,
+        "experience_match": 22,
+        "education_fit": 15,
+        "location_culture": 12,
+        "bonuses": {
+          "partnership_role": 10,
+          "work_life_balance": 5
+        }
+      },
+      "perfect_fit_reasons": [
+        "Technology partnerships expertise from Google/AWS partnership programs",
+        "Channel development experience from enterprise technology roles",
+        "Strategic alliances background from regional technology leadership",
+        "Partner enablement understanding from developer relations experience",
+        "Revenue partnerships success with $500M AWS business management"
+      ],
+      "negotiation_leverage": [
+        "Direct technology partnership program experience",
+        "Channel development and partner enablement expertise",
+        "Revenue-generating partnership track record",
+        "Understanding of technology partnership platforms and ecosystems"
+      ],
+      "application_strategy": [
+        "Lead with Google/AWS partnership program experience",
+        "Emphasize channel development and partner enablement skills",
+        "Highlight revenue generation through technology partnerships",
+        "Position platform partnership ecosystem understanding as key differentiator"
+      ]
+    },
+    {
+      "rank": 15,
+      "match_score": 67,
+      "company": "Blockchain Platform",
+      "title": "Head of Ecosystem Development",
+      "location": "Sydney, NSW (Remote-first)",
+      "salary_range": "$280,000 - $420,000",
+      "url": "https://www.seek.com.au/job/head-ecosystem-development-blockchain",
+      "score_breakdown": {
+        "skill_alignment": 30,
+        "experience_match": 22,
+        "education_fit": 13,
+        "location_culture": 13,
+        "bonuses": {
+          "partnership_role": 10,
+          "work_life_balance": 5
+        }
+      },
+      "perfect_fit_reasons": [
+        "Ecosystem development experience from Google/AWS developer relations",
+        "Developer relations understanding from technology platform roles",
+        "Community building expertise from partnership program management",
+        "Technology platform understanding from fintech and cloud backgrounds",
+        "Remote-first culture aligns with distributed team management experience"
+      ],
+      "negotiation_leverage": [
+        "Technology ecosystem building experience",
+        "Developer relations and community building expertise",
+        "Understanding of technology platform partnerships",
+        "Fintech technology understanding applicable to blockchain/crypto"
+      ],
+      "application_strategy": [
+        "Position technology ecosystem building experience as directly relevant",
+        "Emphasize developer relations and community building skills",
+        "Highlight fintech technology understanding as applicable to blockchain",
+        "Reference platform partnership and ecosystem development success"
+      ]
+    }
+  ],
+  "key_insights": {
+    "strongest_matches": [
+      "Partnership roles consistently score highest due to Google/AWS partnership experience",
+      "Fintech and AI/ML roles receive significant bonuses from Ringkas experience",
+      "C-level roles align well with CEO/CTO experience and Executive MBA",
+      "Sydney location preference gives advantage to all local opportunities"
+    ],
+    "negotiation_advantages": [
+      "Unique combination of Google partnerships + AWS business development",
+      "Proven revenue generation through partnerships ($500M AWS, $3M ARR Ringkas)",
+      "Regulatory/compliance expertise from fintech industry",
+      "Global APAC market knowledge and relationships"
+    ],
+    "application_focus": [
+      "Lead with partnership revenue achievements and scale",
+      "Emphasize unique Google/AWS insider knowledge for cloud/tech roles",
+      "Position fintech regulatory expertise as valuable for compliance-heavy industries",
+      "Highlight global partnership experience for APAC regional roles"
+    ],
+    "salary_negotiation": [
+      "Target roles in $350K-$600K range for maximum leverage",
+      "Use Ringkas $3M ARR achievement to demonstrate partnership ROI",
+      "Reference $11.5M fundraising success for equity/compensation discussions",
+      "Position AWS $500M business management as enterprise-scale experience"
+    ]
+  }
+}

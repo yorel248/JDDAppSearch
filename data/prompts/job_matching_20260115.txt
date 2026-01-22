@@ -1,0 +1,54 @@
+
+Analyze job matches based on the user's profile and the job listings found.
+
+Input files:
+1. User Profile: ./data/profile_extracted.json
+2. Job Listings: ./data/job_search_results.json
+
+For each job, calculate a match score (0-100) based on:
+- Skill alignment (40%): How well do the candidate's skills match requirements?
+- Experience match (30%): Years of experience and relevance of past roles
+- Education fit (15%): Does education meet requirements?
+- Location/Remote preference (15%): Location compatibility
+
+Additional scoring factors:
+- Boost score if company is in preferred industry (+5)
+- Boost if salary range matches expectations (+5)
+- Penalty if overqualified (-10)
+- Penalty if significantly underqualified (-20)
+
+Create a shortlist of top 15 jobs with:
+1. Match score and detailed breakdown
+2. Strengths (why you're a good fit)
+3. Gaps (what you might be missing)
+4. Why apply (compelling reasons)
+5. Application strategy tips
+
+Output format (save to: ./data/job_matches.json):
+{
+  "matches": [
+    {
+      "job_id": "generated_id",
+      "company": "Company Name",
+      "title": "Job Title",
+      "match_score": 85,
+      "score_breakdown": {
+        "skills": 35,
+        "experience": 25,
+        "education": 15,
+        "location": 10
+      },
+      "strengths": ["Strength 1", "Strength 2"],
+      "gaps": ["Gap 1"],
+      "why_apply": "Compelling reason to apply",
+      "application_tips": ["Tip 1", "Tip 2"],
+      "priority": "high|medium|low"
+    }
+  ],
+  "summary": {
+    "total_jobs_analyzed": 20,
+    "high_matches": 5,
+    "medium_matches": 8,
+    "low_matches": 7
+  }
+}

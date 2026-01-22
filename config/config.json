@@ -1,0 +1,64 @@
+{
+  "version": "1.0.0",
+  "environment": "development",
+  "execution_mode": "claude_code_cli",
+  "claude_settings": {
+    "mode": "interactive_prompts",
+    "output_format": "structured_json"
+  },
+  "linkedin": {
+    "profile_url": "",
+    "cookies": ""
+  },
+  "search": {
+    "default_location": "Remote",
+    "results_per_search": 20,
+    "auto_research": true,
+    "include_grok": true,
+    "search_radius_miles": 50
+  },
+  "external_ai": {
+    "grok": {
+      "enabled": true,
+      "auto_generate_prompts": true,
+      "include_sources": ["twitter", "angellist", "hackernews"]
+    },
+    "chatgpt": {
+      "enabled": false,
+      "api_key": ""
+    }
+  },
+  "network": {
+    "include_3rd_degree": false,
+    "alumni_priority": true,
+    "min_connection_strength": 0.5
+  },
+  "matching": {
+    "skill_weight": 0.4,
+    "experience_weight": 0.3,
+    "education_weight": 0.15,
+    "location_weight": 0.15,
+    "min_match_score": 60
+  },
+  "cache": {
+    "enabled": true,
+    "max_size_mb": 500,
+    "ttl": {
+      "job_listing": 86400,
+      "company_info": 604800,
+      "connections": 259200,
+      "application_form": 3600,
+      "grok_results": 43200
+    }
+  },
+  "export": {
+    "format": "markdown",
+    "include_scores": true,
+    "include_debug_info": false
+  },
+  "rate_limits": {
+    "claude_api": 100,
+    "web_fetch": 30,
+    "linkedin": 10
+  }
+}
