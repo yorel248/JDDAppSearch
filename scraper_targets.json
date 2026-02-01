@@ -1,0 +1,246 @@
+{
+  "description": "Job scraper targets - add companies and VCs here",
+  "last_updated": "2026-01-23",
+  "filters": {
+    "apac_only": true,
+    "gtm_only": false
+  },
+  "targets": [
+    {
+      "name": "Sequoia Capital",
+      "url": "https://jobs.sequoiacap.com/jobs",
+      "type": "vc_portfolio",
+      "platform": "getro",
+      "location_filter": "Australia",
+      "enabled": true
+    },
+    {
+      "name": "Insight Partners",
+      "url": "https://jobs.insightpartners.com/jobs",
+      "type": "vc_portfolio",
+      "platform": "getro",
+      "location_filter": "Australia",
+      "enabled": true
+    },
+    {
+      "name": "Index Ventures",
+      "url": "https://www.indexventures.com/startup-jobs/sydney-australia",
+      "type": "vc_portfolio",
+      "platform": "custom",
+      "enabled": true
+    },
+    {
+      "name": "Lightspeed VP",
+      "url": "https://jobs.lsvp.com/jobs",
+      "type": "vc_portfolio",
+      "platform": "getro",
+      "enabled": true
+    },
+    {
+      "name": "Accel",
+      "url": "https://jobs.accel.com/jobs",
+      "type": "vc_portfolio",
+      "platform": "getro",
+      "enabled": true
+    },
+    {
+      "name": "a16z",
+      "url": "https://jobs.a16z.com/jobs",
+      "type": "vc_portfolio",
+      "platform": "getro",
+      "enabled": true
+    },
+    {
+      "name": "Greylock",
+      "url": "https://jobs.greylock.com/jobs",
+      "type": "vc_portfolio",
+      "platform": "getro",
+      "enabled": true
+    },
+    {
+      "name": "General Catalyst",
+      "url": "https://jobs.generalcatalyst.com/jobs",
+      "type": "vc_portfolio",
+      "platform": "getro",
+      "enabled": true
+    },
+    {
+      "name": "Bessemer",
+      "url": "https://jobs.bvp.com/jobs",
+      "type": "vc_portfolio",
+      "platform": "getro",
+      "enabled": true
+    },
+    {
+      "name": "NEA",
+      "url": "https://jobs.nea.com/jobs",
+      "type": "vc_portfolio",
+      "platform": "getro",
+      "enabled": true
+    },
+    {
+      "name": "Founders Fund",
+      "url": "https://jobs.foundersfund.com/jobs",
+      "type": "vc_portfolio",
+      "platform": "getro",
+      "enabled": true
+    },
+    {
+      "name": "Benchmark",
+      "url": "https://jobs.benchmark.com/jobs",
+      "type": "vc_portfolio",
+      "platform": "getro",
+      "enabled": false,
+      "notes": "Enable if needed"
+    },
+    {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/careers",
+      "type": "company",
+      "platform": "greenhouse",
+      "enabled": true,
+      "priority": "high"
+    },
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/careers/search",
+      "type": "company",
+      "platform": "greenhouse",
+      "enabled": true
+    },
+    {
+      "name": "Mistral AI",
+      "url": "https://mistral.ai/careers",
+      "type": "company",
+      "platform": "ashby",
+      "enabled": true
+    },
+    {
+      "name": "Cohere",
+      "url": "https://cohere.com/careers",
+      "type": "company",
+      "platform": "greenhouse",
+      "enabled": true
+    },
+    {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/jobs",
+      "type": "company",
+      "platform": "ashby",
+      "enabled": true
+    },
+    {
+      "name": "Scale AI",
+      "url": "https://scale.com/careers",
+      "type": "company",
+      "platform": "lever",
+      "enabled": true
+    },
+    {
+      "name": "Databricks",
+      "url": "https://www.databricks.com/company/careers/open-positions",
+      "type": "company",
+      "platform": "greenhouse",
+      "enabled": true
+    },
+    {
+      "name": "Datadog",
+      "url": "https://careers.datadoghq.com/all-jobs",
+      "type": "company",
+      "platform": "greenhouse",
+      "enabled": true
+    },
+    {
+      "name": "Wiz",
+      "url": "https://www.wiz.io/careers#jobs",
+      "type": "company",
+      "platform": "greenhouse",
+      "enabled": true
+    },
+    {
+      "name": "Snyk",
+      "url": "https://snyk.io/careers/all-jobs",
+      "type": "company",
+      "platform": "greenhouse",
+      "enabled": true
+    },
+    {
+      "name": "Stripe",
+      "url": "https://stripe.com/jobs/search",
+      "type": "company",
+      "platform": "custom",
+      "enabled": true
+    },
+    {
+      "name": "Figma",
+      "url": "https://www.figma.com/careers/#job-openings",
+      "type": "company",
+      "platform": "greenhouse",
+      "enabled": true
+    },
+    {
+      "name": "Notion",
+      "url": "https://www.notion.so/careers",
+      "type": "company",
+      "platform": "greenhouse",
+      "enabled": true
+    },
+    {
+      "name": "Vercel",
+      "url": "https://vercel.com/careers",
+      "type": "company",
+      "platform": "greenhouse",
+      "enabled": true
+    },
+    {
+      "name": "Rippling",
+      "url": "https://www.rippling.com/careers",
+      "type": "company",
+      "platform": "ashby",
+      "enabled": true
+    },
+    {
+      "name": "Ramp",
+      "url": "https://ramp.com/careers",
+      "type": "company",
+      "platform": "ashby",
+      "enabled": true
+    },
+    {
+      "name": "Retool",
+      "url": "https://retool.com/careers",
+      "type": "company",
+      "platform": "ashby",
+      "enabled": true
+    },
+    {
+      "name": "Glean",
+      "url": "https://www.glean.com/careers",
+      "type": "company",
+      "platform": "greenhouse",
+      "enabled": true
+    },
+    {
+      "name": "Gong",
+      "url": "https://www.gong.io/careers",
+      "type": "company",
+      "platform": "greenhouse",
+      "enabled": true
+    },
+    {
+      "name": "Cresta",
+      "url": "https://cresta.com/careers",
+      "type": "company",
+      "platform": "greenhouse",
+      "enabled": true
+    }
+  ],
+  "platform_notes": {
+    "greenhouse": "Most common. Has public API at boards-api.greenhouse.io",
+    "lever": "Common for startups. URLs contain lever.co",
+    "ashby": "Growing in popularity. Modern UI",
+    "getro": "Used by VC portfolio job boards. Has Load More pagination",
+    "workday": "Used by larger enterprises",
+    "custom": "Company's own implementation - uses generic scraper"
+  }
+}
