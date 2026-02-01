@@ -111,16 +111,34 @@ class JobSearchMVP:
     # ============= PROMPT GENERATORS =============
     # These methods generate prompts for Claude Code execution
     
-    def generate_resume_parse_prompt(self) -> str:
-        """Generate prompt to parse resume with Claude Code."""
-        prompt = f'''
+    def generate_resume_parse_prompt(self, extracted_text: Optional[str] = None) -> str:
+        """Generate prompt to parse resume with Claude Code.
+
+        Args:
+            extracted_text: Pre-extracted text from PDFs. When provided, the text
+                is embedded directly in the prompt so Claude doesn't need to read
+                PDF files itself.
+        """
+        if extracted_text:
+            prompt = f'''
+Please analyze the following resume/profile text that was extracted from PDF files in the ./profile directory and extract structured information.
+
+=== EXTRACTED RESUME TEXT ===
+{extracted_text}
+=== END EXTRACTED TEXT ===
+
+Extract and return as JSON:'''
+        else:
+            prompt = f'''
 Please analyze the resume and LinkedIn profile in the ./profile directory and extract structured information.
 
 Read these files:
 - ./profile/resume.pdf (or .docx, .txt)
 - ./profile/linkedin.pdf (if available)
 
-Extract and return as JSON:
+Extract and return as JSON:'''
+
+        prompt += f'''
 {{
   "personal_info": {{
     "name": "Full Name",

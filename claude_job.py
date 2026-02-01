@@ -33,22 +33,50 @@ class ClaudeJobCLI:
     def cmd_init(self, args):
         """Initialize user profile."""
         print("🚀 Initializing Job Search Profile\n")
-        
+
+        # Attempt PDF extraction if pypdf is available
+        extracted_text = None
+        try:
+            from src.core.pdf_parser import PDFParser
+            parser = PDFParser(chunk_size=getattr(args, 'chunk_size', 4000))
+            if parser.is_available():
+                print("📄 Extracting text from PDFs in ./profile/ ...")
+                result = parser.extract_from_directory("./profile/", "*.pdf")
+                if result.pages:
+                    extracted_text = parser.get_text_for_prompt(result)
+                    print(f"   Extracted {result.total_chars} chars from {len(result.source_files)} file(s)")
+                    if result.errors:
+                        for err in result.errors:
+                            print(f"   Warning: {err}")
+                else:
+                    if result.errors:
+                        for err in result.errors:
+                            print(f"   Warning: {err}")
+                    print("   No text extracted from PDFs, falling back to default prompt.")
+            else:
+                print("   Note: Install pypdf for automatic PDF text extraction: pip install pypdf")
+        except Exception as e:
+            print(f"   PDF extraction skipped: {e}")
+
         # Generate resume parsing prompt
-        prompt = self.mvp.generate_resume_parse_prompt()
+        prompt = self.mvp.generate_resume_parse_prompt(extracted_text=extracted_text)
         prompt_file = self.mvp.save_prompt_to_file(prompt, "init_profile")
-        
-        print("📝 Profile Initialization Prompt Generated!")
+
+        print("\n📝 Profile Initialization Prompt Generated!")
         print(f"   Saved to: {prompt_file}\n")
-        print("To initialize your profile:")
-        print("1. Place your resume in: ./profile/resume.pdf (or .docx, .txt)")
-        print("2. Place your LinkedIn PDF in: ./profile/linkedin.pdf (optional)")
-        print("3. Execute the following with Claude Code:\n")
+        if extracted_text:
+            print("PDF text has been embedded directly in the prompt.")
+            print("Execute the following with Claude Code:\n")
+        else:
+            print("To initialize your profile:")
+            print("1. Place your resume in: ./profile/resume.pdf (or .docx, .txt)")
+            print("2. Place your LinkedIn PDF in: ./profile/linkedin.pdf (optional)")
+            print("3. Execute the following with Claude Code:\n")
         print("-" * 50)
         print(prompt)
         print("-" * 50)
         print("\n✅ After Claude processes your files, your profile will be ready!")
-        
+
         return 0
     
     def cmd_search(self, args):
@@ -360,6 +388,8 @@ Examples:
     
     # Init command
     parser_init = subparsers.add_parser('init', help='Initialize profile with resume')
+    parser_init.add_argument('--chunk-size', type=int, default=4000,
+                             help='PDF text chunk size in characters (default: 4000)')
     
     # Search command
     parser_search = subparsers.add_parser('search', help='Search for jobs')

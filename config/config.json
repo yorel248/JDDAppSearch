@@ -56,6 +56,11 @@
     "include_scores": true,
     "include_debug_info": false
   },
+  "pdf": {
+    "chunk_size": 4000,
+    "chunk_overlap": 200,
+    "max_prompt_text_size": 50000
+  },
   "rate_limits": {
     "claude_api": 100,
     "web_fetch": 30,

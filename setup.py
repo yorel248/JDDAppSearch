@@ -31,6 +31,9 @@ setup(
         # No external dependencies required!
         # System works entirely with Claude Code
     ],
+    extras_require={
+        'pdf': ['pypdf>=4.0.0'],
+    },
     entry_points={
         "console_scripts": [
             "claude-job=claude_job:main",

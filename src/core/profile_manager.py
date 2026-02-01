@@ -281,6 +281,66 @@ class ProfileManager:
         
         return missing
     
+    @staticmethod
+    def merge_parsed_profiles(profiles: List[Dict[str, Any]]) -> Dict[str, Any]:
+        """Merge multiple regex-parsed profile dicts into one.
+
+        Deduplicates skills, takes first non-empty personal info fields,
+        and concatenates experience/education lists.
+
+        Args:
+            profiles: List of profile dicts (from parse_resume_text or similar).
+
+        Returns:
+            A single merged profile dict.
+        """
+        if not profiles:
+            return ProfileManager().create_empty_profile()
+        if len(profiles) == 1:
+            return profiles[0]
+
+        merged = profiles[0].copy()
+
+        for profile in profiles[1:]:
+            # Personal info: take first non-empty value for each field
+            for field_key, value in profile.get("personal_info", {}).items():
+                if value and not merged.get("personal_info", {}).get(field_key):
+                    merged.setdefault("personal_info", {})[field_key] = value
+
+            # Skills: deduplicate across all categories
+            for category in ("technical", "soft", "languages", "certifications"):
+                existing = set(merged.get("skills", {}).get(category, []))
+                new_skills = profile.get("skills", {}).get(category, [])
+                for skill in new_skills:
+                    if skill not in existing:
+                        merged.setdefault("skills", {}).setdefault(category, []).append(skill)
+                        existing.add(skill)
+
+            # Experience and education: concatenate and deduplicate by title/degree
+            for list_key in ("experience", "education"):
+                existing_items = merged.get(list_key, [])
+                existing_titles = {
+                    item.get("title", item.get("degree", ""))
+                    for item in existing_items
+                }
+                for item in profile.get(list_key, []):
+                    item_key = item.get("title", item.get("degree", ""))
+                    if item_key and item_key not in existing_titles:
+                        existing_items.append(item)
+                        existing_titles.add(item_key)
+                merged[list_key] = existing_items
+
+            # Projects and achievements: concatenate
+            for list_key in ("projects", "achievements"):
+                existing = merged.get(list_key, [])
+                existing_names = {item.get("name", "") for item in existing}
+                for item in profile.get(list_key, []):
+                    if item.get("name", "") not in existing_names:
+                        existing.append(item)
+                merged[list_key] = existing
+
+        return merged
+
     def export_for_matching(self) -> Dict[str, Any]:
         """Export profile in format optimized for job matching."""
         return {
