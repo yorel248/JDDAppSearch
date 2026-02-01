@@ -1,0 +1,187 @@
+{
+  "search_date": "2026-01-23",
+  "candidate": "Leroy Pinto",
+  "profile_summary": "GTM/Commercial leader with 18 years experience, hands-on AI (Claude/GPT-4 multi-agent systems), enterprise sales ($75M deals, 100%+ quota), startup founder ($11.5M raised)",
+  "target_locations": ["Sydney", "Singapore", "San Francisco", "Remote"],
+  "salary_target": "$350k - $600k+",
+  "high_priority_matches": [
+    {
+      "company": "Glean",
+      "role": "Head of Sales, APJ",
+      "location": "Singapore, Tokyo, Sydney, or Bangalore (Hybrid)",
+      "match_score": 95,
+      "url": "https://jobs.generalcatalyst.com/companies/glean/jobs/52303550-head-of-sales-apj",
+      "requirements": "10+ years enterprise sales management, multi-team leadership, $1M+ ACV deals",
+      "why_match": "Perfect fit - APJ focus, enterprise AI, 10+ years experience matches, $1M+ ACV aligns with $75M deal experience",
+      "valuation": "$7.2B (Series F)",
+      "status": "open",
+      "priority": "APPLY IMMEDIATELY"
+    },
+    {
+      "company": "Anthropic",
+      "role": "Head of Asset & Wealth Management, GTM Sales",
+      "location": "New York City or San Francisco",
+      "match_score": 92,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5041304008",
+      "requirements": "15+ years enterprise sales in AWM technology, 5+ years sales leadership",
+      "why_match": "Built multi-agent systems on Claude, fintech/banking background (32 bank partnerships), enterprise sales leadership",
+      "valuation": "$183B (Series F)",
+      "status": "open",
+      "priority": "APPLY IMMEDIATELY"
+    },
+    {
+      "company": "Anthropic",
+      "role": "Sales Manager, Enterprise Industries",
+      "location": "San Francisco or New York",
+      "match_score": 90,
+      "url": "https://www.anthropic.com/careers/jobs/4988861008",
+      "requirements": "Enterprise sales leadership, financial institutions focus",
+      "why_match": "Direct Claude experience, closed deals with MUFG, OCBC, UOB, HDFC, ICICI banks",
+      "valuation": "$183B (Series F)",
+      "status": "open",
+      "priority": "APPLY IMMEDIATELY"
+    },
+    {
+      "company": "Databricks",
+      "role": "APJ Financial Services GTM Leader",
+      "location": "APJ Region (Singapore base likely)",
+      "match_score": 90,
+      "url": "https://www.databricks.com/company/careers/go-to-market-/apj-financial-services-gtm-leader-8111560002",
+      "requirements": "Financial services GTM, partnerships with SIs, cross-functional leadership",
+      "why_match": "Google Analytics 360 for banks (HDFC, Axis, ICICI), CT Corp fintech, AWS unicorn GTM",
+      "valuation": "$62B (Series I)",
+      "status": "open",
+      "priority": "APPLY IMMEDIATELY"
+    },
+    {
+      "company": "Databricks",
+      "role": "Head of Global System Integrators - APJ",
+      "location": "Singapore",
+      "match_score": 88,
+      "url": "https://www.databricks.com/company/careers/open-positions",
+      "requirements": "GSI partnership strategy, APAC markets, reports to VP Partners APJ",
+      "why_match": "Built 21 certified reseller partners at Google, 5 JV partnerships at CT Corp, SI relationships",
+      "valuation": "$62B (Series I)",
+      "status": "open",
+      "priority": "HIGH"
+    },
+    {
+      "company": "OpenAI",
+      "role": "Enterprise Sales Manager, Healthcare & Life Sciences",
+      "location": "San Francisco",
+      "match_score": 85,
+      "url": "https://openai.com/careers/enterprise-sales-manager-healthcare-and-life-sciences-san-francisco/",
+      "requirements": "Build and lead team of Account Directors, vertical GTM playbook creation",
+      "why_match": "Built multi-agent on GPT-4, enterprise sales leadership, playbook creation experience (competitive playbook at Google)",
+      "valuation": "$500B",
+      "status": "open",
+      "priority": "HIGH"
+    },
+    {
+      "company": "Cursor (Anysphere)",
+      "role": "Sales Manager",
+      "location": "San Francisco (In-person)",
+      "match_score": 85,
+      "url": "https://cursor.com/careers/sales-manager",
+      "requirements": "3-8 years technical sales, developer tools/AI platforms, video application",
+      "why_match": "Google developer tools GTM, AWS developer relations, technical sales background",
+      "valuation": "$29.3B (Series D)",
+      "status": "open",
+      "priority": "HIGH"
+    },
+    {
+      "company": "Cursor (Anysphere)",
+      "role": "Field Engineer",
+      "location": "San Francisco",
+      "match_score": 82,
+      "url": "https://cursor.com/careers/field-engineer",
+      "requirements": "Technical face of Anysphere, enterprise customers, POC guidance",
+      "why_match": "Head of Sales Engineering at Google/Ektron, technical + commercial hybrid",
+      "valuation": "$29.3B (Series D)",
+      "status": "open",
+      "priority": "HIGH"
+    },
+    {
+      "company": "Fireworks AI",
+      "role": "Partner Solutions Architect (Applied AI)",
+      "location": "New York or San Mateo",
+      "match_score": 80,
+      "url": "https://job-boards.greenhouse.io/fireworksai/jobs/4059134009",
+      "requirements": "Hyperscaler/SI partnerships, demos, integrations, joint solutions",
+      "why_match": "AWS partnerships, Google partner ecosystem, technical sales engineering background",
+      "valuation": "$4B (Series C)",
+      "status": "open",
+      "priority": "MEDIUM"
+    },
+    {
+      "company": "Fireworks AI",
+      "role": "Enterprise Solutions Architect",
+      "location": "US",
+      "match_score": 78,
+      "url": "https://fireworks.ai/careers",
+      "requirements": "Lead technical engagements, architect GenAI applications",
+      "why_match": "Solutions architecture at Google, AWS, technical customer engagement",
+      "valuation": "$4B (Series C)",
+      "status": "open",
+      "priority": "MEDIUM"
+    },
+    {
+      "company": "Glean",
+      "role": "Regional Vice President Sales, EMEA",
+      "location": "EMEA",
+      "match_score": 75,
+      "url": "https://job-boards.greenhouse.io/gleanwork",
+      "requirements": "Sales strategy, revenue growth, team development",
+      "why_match": "Regional leadership experience, but EMEA not primary market",
+      "valuation": "$7.2B (Series F)",
+      "status": "open",
+      "priority": "MEDIUM"
+    },
+    {
+      "company": "Supabase",
+      "role": "AMER Sales Lead",
+      "location": "Americas (Remote)",
+      "match_score": 75,
+      "url": "https://jobs.ashbyhq.com/supabase",
+      "requirements": "Sales leadership for Americas region",
+      "why_match": "Developer platform sales, remote-first culture",
+      "valuation": "$5B (Series D)",
+      "status": "open",
+      "priority": "MEDIUM"
+    },
+    {
+      "company": "Mistral AI",
+      "role": "Account Executive, Enterprise - New York",
+      "location": "New York",
+      "match_score": 72,
+      "url": "https://jobs.lever.co/mistral",
+      "requirements": "Enterprise sales, AI platforms",
+      "why_match": "Enterprise AI sales, but AE level may be below target",
+      "valuation": "$11.7B (Series C)",
+      "status": "open",
+      "priority": "MEDIUM"
+    }
+  ],
+  "application_priority": {
+    "immediate": [
+      "Glean - Head of Sales, APJ",
+      "Anthropic - Head of Asset & Wealth Management, GTM Sales",
+      "Anthropic - Sales Manager, Enterprise Industries",
+      "Databricks - APJ Financial Services GTM Leader"
+    ],
+    "high": [
+      "Databricks - Head of GSI APJ",
+      "OpenAI - Enterprise Sales Manager, HLS",
+      "Cursor - Sales Manager",
+      "Cursor - Field Engineer"
+    ],
+    "medium": [
+      "Fireworks AI - Partner Solutions Architect",
+      "Glean - RVP EMEA",
+      "Supabase - AMER Sales Lead",
+      "Mistral AI - Enterprise AE"
+    ]
+  },
+  "total_matches": 13,
+  "companies_with_matches": 9
+}

@@ -1,0 +1,276 @@
+{
+  "search_date": "2026-01-23",
+  "search_criteria": "VP Sales, Head of Sales, Head of GTM roles across VC portfolio job boards",
+  "candidate_match": "Leroy Pinto - GTM/Commercial Leader, 18 years experience",
+  "total_roles_found": 28,
+  "high_priority_roles": [
+    {
+      "company": "Stripe",
+      "role": "Head of Agentic Commerce GTM",
+      "location": "US",
+      "salary": "$380,600 - $571,000",
+      "source": "Khosla Ventures",
+      "url": "https://jobs.khoslaventures.com/companies/stripe/jobs/62237174-head-of-agentic-commerce-gtm",
+      "match_score": 95,
+      "requirements": "10+ years GTM leadership, business development, partnerships, sales",
+      "why_match": "AI product GTM, founding team role, aligns with multi-agent AI experience at Ringkas",
+      "status": "ACTIVE"
+    },
+    {
+      "company": "Anthropic",
+      "role": "Head of International GTM Strategy & Operations",
+      "location": "EMEA/APAC",
+      "salary": "Not disclosed",
+      "source": "Menlo Ventures",
+      "url": "https://jobs.menlovc.com/companies/anthropic/jobs/61708042-head-of-international-gtm-strategy-operations",
+      "match_score": 94,
+      "requirements": "10+ years revenue/GTM ops, 5+ years senior leadership",
+      "why_match": "Built on Claude, APAC expertise, international GTM experience",
+      "status": "ACTIVE"
+    },
+    {
+      "company": "Hippocratic AI",
+      "role": "VP, GTM Strategy Enablement Operations",
+      "location": "Palo Alto, CA (5 days/week in-office)",
+      "salary": "Not disclosed",
+      "source": "General Catalyst",
+      "url": "https://jobs.generalcatalyst.com/companies/hippocractic-ai/jobs/61512255-vp-gtm-strategy-enablement-operations",
+      "match_score": 90,
+      "requirements": "12+ years GTM Operations/Enablement in high-growth SaaS",
+      "why_match": "AI healthcare, GTM strategy, $3.5B valuation",
+      "status": "ACTIVE"
+    },
+    {
+      "company": "Lean Technologies",
+      "role": "Head of GTM - Remittance",
+      "location": "MENA/Global",
+      "salary": "Not disclosed",
+      "source": "General Catalyst",
+      "url": "https://jobs.generalcatalyst.com/companies/lean-technologies-2-16bbfe41-4aa4-4262-919f-f8331e016df0/jobs/62254892-head-of-gtm-remittance",
+      "match_score": 88,
+      "requirements": "Deep payments/open banking sales experience, enterprise motions",
+      "why_match": "Fintech, payments, backed by GC + Sequoia, MENA market",
+      "status": "ACTIVE"
+    },
+    {
+      "company": "Gainsight",
+      "role": "VP, Sales",
+      "location": "US",
+      "salary": "Not disclosed",
+      "source": "Insight Partners",
+      "url": "https://jobs.insightpartners.com/companies/gainsight/jobs/49622381-vp-sales",
+      "match_score": 87,
+      "requirements": "10+ years SaaS sales leadership, 2+ years as 2nd line leader, 6-7 figure deals",
+      "why_match": "Enterprise SaaS, customer success platform, complex sales",
+      "status": "ACTIVE"
+    },
+    {
+      "company": "Unit",
+      "role": "VP Sales",
+      "location": "New York",
+      "salary": "Not disclosed",
+      "source": "Insight Partners",
+      "url": "https://jobs.insightpartners.com/companies/unit-2/jobs/47091162-vp-sales",
+      "match_score": 92,
+      "requirements": "Build brand, drive demand among 500+ accounts, reports to CEO",
+      "why_match": "Embedded finance leader, fintech background perfect match, clients include Wix, Bill.com",
+      "status": "ACTIVE"
+    },
+    {
+      "company": "TRACTIAN",
+      "role": "VP of Sales - Mid-Market",
+      "location": "Global",
+      "salary": "Not disclosed",
+      "source": "General Catalyst",
+      "url": "https://jobs.generalcatalyst.com/companies/tractian/jobs/65131502-vp-of-sales-mid-market",
+      "match_score": 82,
+      "requirements": "7+ years progressive sales leadership, 10+ years quota-carrying",
+      "why_match": "Forbes AI 50, global mid-market, CRO reports",
+      "status": "ACTIVE"
+    },
+    {
+      "company": "Cedar",
+      "role": "VP, Sales",
+      "location": "US",
+      "salary": "Not disclosed",
+      "source": "Craft Ventures",
+      "url": "https://jobs.craftventures.com/companies/cedar/jobs/38041731-vp-sales",
+      "match_score": 80,
+      "requirements": "Enterprise sales, health systems, consultative selling",
+      "why_match": "$3.2B valuation (a16z, Tiger Global), healthcare fintech",
+      "status": "ACTIVE"
+    },
+    {
+      "company": "Shelf",
+      "role": "VP, GTM Operations",
+      "location": "US",
+      "salary": "Not disclosed",
+      "source": "Insight Partners",
+      "url": "https://jobs.insightpartners.com/companies/shelf/jobs/55103811-vp-gtm-operations",
+      "match_score": 78,
+      "requirements": "10+ years GTM/Sales/Marketing ops, 3-5 years management, $20M→$100M+ ARR scaling",
+      "why_match": "GTM operations focus, scaling experience",
+      "status": "ACTIVE"
+    },
+    {
+      "company": "Alteryx",
+      "role": "VP of Sales, North",
+      "location": "North America (Western)",
+      "salary": "Not disclosed",
+      "source": "Insight Partners",
+      "url": "https://jobs.insightpartners.com/companies/alteryx-2/jobs/60748486-vp-of-sales-north",
+      "match_score": 75,
+      "requirements": "Strategic sales direction, reports to SVP Sales Americas",
+      "why_match": "Data analytics platform, enterprise accounts",
+      "status": "ACTIVE"
+    }
+  ],
+  "medium_priority_roles": [
+    {
+      "company": "SalesLoft",
+      "role": "Vice President, Mid Market North America Sales",
+      "location": "US",
+      "source": "Insight Partners",
+      "url": "https://jobs.insightpartners.com/companies/salesloft/jobs/51984245-vice-president-mid-market-north-america-sales",
+      "match_score": 75,
+      "status": "ACTIVE"
+    },
+    {
+      "company": "PDI Technologies",
+      "role": "Vice President, Inside Sales",
+      "location": "US",
+      "source": "Insight Partners",
+      "url": "https://jobs.insightpartners.com/companies/pdi-technologies/jobs/50418635-vice-president-inside-sales",
+      "match_score": 70,
+      "status": "ACTIVE"
+    },
+    {
+      "company": "Stripe",
+      "role": "Product Marketing Lead, GTM",
+      "location": "US",
+      "salary": "$205,800 - $308,700",
+      "source": "Khosla Ventures",
+      "url": "https://jobs.khoslaventures.com/companies/stripe/jobs/61079687-product-marketing-lead-gtm",
+      "match_score": 70,
+      "status": "ACTIVE"
+    },
+    {
+      "company": "Benchling",
+      "role": "Revenue GTM Enablement Leader",
+      "location": "US",
+      "salary": "$161,500 - $218,500",
+      "source": "Menlo Ventures",
+      "url": "https://jobs.menlovc.com/companies/benchling/jobs/61992900-revenue-gtm-enablement-leader",
+      "match_score": 72,
+      "status": "ACTIVE"
+    },
+    {
+      "company": "Vanta",
+      "role": "GTM Enablement Manager, Enterprise",
+      "location": "Remote US",
+      "salary": "$300k - $365k + equity",
+      "source": "Craft Ventures",
+      "url": "https://jobs.craftventures.com/companies/vanta-com/jobs/58664868-gtm-enablement-manager-enterprise",
+      "match_score": 68,
+      "status": "ACTIVE"
+    },
+    {
+      "company": "Windsurf (Codeium)",
+      "role": "GTM Manager - Enterprise",
+      "location": "US",
+      "source": "General Catalyst",
+      "url": "https://jobs.generalcatalyst.com/companies/windsurf/jobs/64773133-gtm-manager-enterprise",
+      "match_score": 75,
+      "status": "ACTIVE"
+    },
+    {
+      "company": "Socure",
+      "role": "Head of GTM Strategy (Tech, AI, Startups)",
+      "location": "Remote US",
+      "source": "Built In",
+      "url": "https://builtin.com/job/head-go-market-gtm-big-tech-ai-startups/7765126",
+      "match_score": 85,
+      "requirements": "12+ years enterprise/SaaS sales, 5+ years leadership, AI experience",
+      "status": "ACTIVE"
+    },
+    {
+      "company": "Automation Anywhere",
+      "role": "Regional VP Sales",
+      "location": "Remote",
+      "source": "VentureLoop",
+      "url": "https://www.ventureloop.com/ventureloop/job/2971421/automation-anywhere/regional-vp-sales",
+      "match_score": 78,
+      "status": "ACTIVE"
+    }
+  ],
+  "closed_but_monitor": [
+    {
+      "company": "Anthropic",
+      "role": "Head of Startup Sales - EMEA",
+      "source": "Menlo Ventures",
+      "note": "Closed - monitor for similar roles"
+    },
+    {
+      "company": "Okta",
+      "role": "SVP, Enterprise Sales",
+      "source": "Khosla Ventures",
+      "note": "Closed - monitor for similar roles"
+    },
+    {
+      "company": "Lattice",
+      "role": "VP/GM, Head of Sales & Marketing, EMEA",
+      "source": "Khosla Ventures",
+      "note": "Closed - monitor for similar roles"
+    },
+    {
+      "company": "HubSpot",
+      "role": "VP of Revenue Enablement",
+      "source": "General Catalyst",
+      "note": "Closed - monitor for similar roles"
+    }
+  ],
+  "apac_specific": [
+    {
+      "company": "Glean",
+      "role": "Head of Sales, APJ",
+      "location": "Sydney/Singapore/Tokyo/Bangalore",
+      "source": "General Catalyst / Lightspeed",
+      "url": "https://jobs.generalcatalyst.com/companies/glean/jobs/52303550-head-of-sales-apj",
+      "match_score": 95,
+      "status": "ACTIVE"
+    },
+    {
+      "company": "Mistral AI",
+      "role": "ASEAN Partner Lead / GTM",
+      "location": "Singapore",
+      "source": "startup.jobs",
+      "match_score": 80,
+      "status": "ACTIVE"
+    },
+    {
+      "company": "Airwallex",
+      "role": "Head of Sales, SME",
+      "location": "Sydney/Melbourne",
+      "source": "Blackbird",
+      "url": "https://startup.jobs/head-of-sales-sme-airwallex-3-6387755",
+      "match_score": 88,
+      "status": "ACTIVE"
+    },
+    {
+      "company": "Databricks",
+      "role": "APJ Financial Services GTM Leader",
+      "location": "Singapore/APJ",
+      "source": "Databricks Careers",
+      "url": "https://www.databricks.com/company/careers/go-to-market-/apj-financial-services-gtm-leader-8111560002",
+      "match_score": 90,
+      "status": "ACTIVE"
+    }
+  ],
+  "summary": {
+    "total_active_roles": 24,
+    "high_priority": 10,
+    "medium_priority": 8,
+    "apac_specific": 4,
+    "closed_to_monitor": 4
+  }
+}

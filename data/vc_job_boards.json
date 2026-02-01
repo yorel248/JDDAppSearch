@@ -1,0 +1,210 @@
+{
+  "updated": "2026-01-23",
+  "vc_job_boards": {
+    "global": [
+      {
+        "name": "Sequoia Capital",
+        "url": "https://jobs.sequoiacap.com/jobs",
+        "portfolio": "Stripe, Airbnb, DoorDash, Zoom, etc."
+      },
+      {
+        "name": "Andreessen Horowitz (a16z)",
+        "url": "https://jobs.a16z.com/jobs",
+        "portfolio": "Coinbase, GitHub, Roblox, Figma, etc."
+      },
+      {
+        "name": "Lightspeed Venture Partners",
+        "url": "https://jobs.lsvp.com/jobs",
+        "portfolio": "Snap, Affirm, Mulesoft, Glean, etc."
+      },
+      {
+        "name": "Accel",
+        "url": "https://jobs.accel.com/companies",
+        "portfolio": "Facebook, Slack, Dropbox, Spotify, etc."
+      },
+      {
+        "name": "Y Combinator",
+        "url": "https://www.workatastartup.com/",
+        "portfolio": "Stripe, Airbnb, Coinbase, DoorDash, etc."
+      },
+      {
+        "name": "General Catalyst",
+        "url": "https://jobs.generalcatalyst.com/companies",
+        "portfolio": "Stripe, Snap, Airbnb, Glean, etc."
+      },
+      {
+        "name": "Greylock Partners",
+        "url": "https://jobs.greylock.com/jobs",
+        "portfolio": "LinkedIn, Discord, Figma, Roblox, etc."
+      },
+      {
+        "name": "Index Ventures",
+        "url": "https://www.indexventures.com/startup-jobs",
+        "portfolio": "Figma, Notion, Discord, Deliveroo, etc."
+      },
+      {
+        "name": "Khosla Ventures",
+        "url": "https://jobs.khoslaventures.com/jobs",
+        "portfolio": "OpenAI, Instacart, DoorDash, etc."
+      },
+      {
+        "name": "Kleiner Perkins",
+        "url": "https://jobs.kleinerperkins.com/jobs",
+        "portfolio": "Google, Amazon, Twitter, Figma, etc."
+      },
+      {
+        "name": "NEA",
+        "url": "https://careers.nea.com/jobs",
+        "portfolio": "Salesforce, Robinhood, Plaid, etc."
+      },
+      {
+        "name": "Bessemer Venture Partners",
+        "url": "https://jobs.bvp.com/jobs",
+        "portfolio": "LinkedIn, Shopify, Twilio, etc."
+      },
+      {
+        "name": "Benchmark",
+        "url": "https://benchmark.com/",
+        "portfolio": "Twitter, Uber, Discord, Snapchat, etc."
+      },
+      {
+        "name": "Founders Fund",
+        "url": "https://foundersfund.com/portfolio/",
+        "portfolio": "SpaceX, Palantir, Airbnb, Stripe, etc."
+      },
+      {
+        "name": "Thrive Capital",
+        "url": "https://jobs.thrivecap.com/companies",
+        "portfolio": "Instagram, Slack, Notion, Cursor, etc."
+      }
+    ],
+    "australia_nz": [
+      {
+        "name": "Blackbird Ventures",
+        "url": "https://jobs.blackbird.vc/jobs",
+        "companies_url": "https://jobs.blackbird.vc/companies",
+        "portfolio": "Canva, SafetyCulture, Airwallex, Culture Amp, etc.",
+        "aum": "$7B+"
+      },
+      {
+        "name": "AirTree Ventures",
+        "url": "https://jobs.airtree.vc/jobs",
+        "companies_url": "https://jobs.airtree.vc/companies",
+        "portfolio": "Canva, Go1, Employment Hero, Linktree, Immutable, etc."
+      },
+      {
+        "name": "Square Peg Capital",
+        "url": "https://squarepeg.getro.com/companies",
+        "portfolio": "Canva, Airwallex, Fiverr, Rokt, Deputy, etc."
+      }
+    ],
+    "aggregators": [
+      {
+        "name": "FVT.vc",
+        "url": "https://www.fvt.vc/jobs/",
+        "description": "Search 10,000+ jobs at VC-backed startups"
+      },
+      {
+        "name": "Wellfound (formerly AngelList)",
+        "url": "https://wellfound.com/jobs",
+        "description": "Startup jobs with salary transparency"
+      },
+      {
+        "name": "startup.jobs",
+        "url": "https://startup.jobs/",
+        "description": "Curated startup job listings"
+      }
+    ]
+  },
+  "australia_specific": {
+    "job_boards": [
+      {
+        "name": "SEEK",
+        "url": "https://www.seek.com.au/",
+        "description": "Australia's largest job board"
+      },
+      {
+        "name": "LinkedIn Australia",
+        "url": "https://au.linkedin.com/jobs",
+        "description": "Filter by Australia location"
+      },
+      {
+        "name": "Glassdoor Australia",
+        "url": "https://www.glassdoor.com.au/",
+        "description": "Jobs with salary info"
+      }
+    ],
+    "companies_with_open_sales_leadership_roles": [
+      {
+        "company": "Airwallex",
+        "role": "Head of Sales, SME",
+        "location": "Sydney or Melbourne",
+        "url": "https://startup.jobs/head-of-sales-sme-airwallex-3-6387755",
+        "valuation": "$9.6B",
+        "match_score": 88
+      }
+    ],
+    "top_australian_tech_companies": [
+      {
+        "name": "Canva",
+        "valuation": "$26B",
+        "careers": "https://www.lifeatcanva.com/en/jobs/",
+        "headquarters": "Sydney"
+      },
+      {
+        "name": "Atlassian",
+        "valuation": "$90B+",
+        "careers": "https://www.atlassian.com/company/careers/all-jobs",
+        "headquarters": "Sydney"
+      },
+      {
+        "name": "Airwallex",
+        "valuation": "$9.6B",
+        "careers": "https://careers.airwallex.com/",
+        "headquarters": "Melbourne"
+      },
+      {
+        "name": "SafetyCulture",
+        "valuation": "$2.5B",
+        "careers": "https://jobs.blackbird.vc/companies/safetyculture",
+        "headquarters": "Sydney"
+      },
+      {
+        "name": "Culture Amp",
+        "valuation": "$1.5B",
+        "careers": "https://www.cultureamp.com/company/careers",
+        "headquarters": "Melbourne"
+      },
+      {
+        "name": "Employment Hero",
+        "valuation": "$2B+",
+        "careers": "https://employmenthero.com/careers/",
+        "headquarters": "Sydney"
+      },
+      {
+        "name": "Rokt",
+        "valuation": "$2.4B",
+        "careers": "https://rokt.com/careers/",
+        "headquarters": "Sydney (NYC HQ)"
+      },
+      {
+        "name": "Immutable",
+        "valuation": "$2.5B",
+        "careers": "https://www.immutable.com/careers",
+        "headquarters": "Sydney"
+      },
+      {
+        "name": "Harrison.ai",
+        "valuation": "$700M+",
+        "careers": "https://harrison.ai/careers/",
+        "headquarters": "Sydney"
+      },
+      {
+        "name": "Linktree",
+        "valuation": "$1.3B",
+        "careers": "https://linktr.ee/s/join-us/",
+        "headquarters": "Melbourne"
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "search_date": "2026-01-23",
+  "search_criteria": "AI-Native Companies Series C+",
+  "profile_match": {
+    "target_roles": [
+      "VP of Sales",
+      "Head of Sales",
+      "VP of GTM",
+      "Head of GTM",
+      "VP of Partnerships",
+      "Head of Partnerships",
+      "VP of Revenue",
+      "CRO",
+      "Head of Field Engineering",
+      "VP of Solutions Engineering",
+      "Regional Director APAC",
+      "GM APAC",
+      "Head of Enterprise Sales",
+      "VP of Business Development"
+    ],
+    "locations": ["Sydney", "Singapore", "San Francisco", "Remote", "Hybrid"],
+    "salary_range": "$350k - $600k+"
+  },
+  "companies": [
+    {
+      "name": "Anthropic",
+      "series": "F",
+      "valuation": "$183B",
+      "careers_url": "https://www.anthropic.com/careers",
+      "job_board": "https://job-boards.greenhouse.io/anthropic",
+      "open_roles": 317,
+      "focus": "Claude AI, safety-focused LLMs",
+      "priority": "high",
+      "match_reason": "Leroy built multi-agent systems on Claude, direct product experience"
+    },
+    {
+      "name": "Vercel",
+      "series": "F",
+      "valuation": "$9.3B",
+      "careers_url": "https://vercel.com/careers",
+      "job_board": "https://job-boards.greenhouse.io/vercel",
+      "open_roles": 26,
+      "focus": "Frontend cloud, v0, AI SDK",
+      "priority": "high",
+      "match_reason": "Developer tools GTM, enterprise sales motion"
+    },
+    {
+      "name": "Cursor (Anysphere)",
+      "series": "D",
+      "valuation": "$29.3B",
+      "careers_url": "https://cursor.com/careers",
+      "job_board": "https://cursor.com/careers",
+      "open_roles": 10,
+      "focus": "AI-native code editor",
+      "priority": "high",
+      "match_reason": "Sales Manager role open, technical GTM for developer tools"
+    },
+    {
+      "name": "Replit",
+      "series": "C",
+      "valuation": "$9B",
+      "careers_url": "https://replit.com/careers",
+      "job_board": "https://jobs.ashbyhq.com/replit",
+      "open_roles": 20,
+      "focus": "Browser AI IDE, vibe coding",
+      "priority": "high",
+      "match_reason": "Enterprise Field Engineer roles, rapid growth phase"
+    },
+    {
+      "name": "Scale AI",
+      "series": "F",
+      "valuation": "$13.8B",
+      "careers_url": "https://scale.com/careers",
+      "job_board": "https://job-boards.greenhouse.io/scaleai",
+      "open_roles": 409,
+      "focus": "Data labeling, RLHF, AI training",
+      "priority": "high",
+      "match_reason": "Large enterprise sales org, APAC expansion potential"
+    },
+    {
+      "name": "Databricks",
+      "series": "I",
+      "valuation": "$62B",
+      "careers_url": "https://www.databricks.com/company/careers",
+      "job_board": "https://www.databricks.com/company/careers/open-positions",
+      "open_roles": 55,
+      "focus": "Unified data + AI platform",
+      "priority": "high",
+      "match_reason": "Google Analytics 360 experience transferable, data platform GTM"
+    },
+    {
+      "name": "Cohere",
+      "series": "D",
+      "valuation": "$5.5B",
+      "careers_url": "https://cohere.com/careers",
+      "job_board": "https://jobs.ashbyhq.com/cohere",
+      "open_roles": 31,
+      "focus": "Enterprise NLP, privacy-focused",
+      "priority": "high",
+      "match_reason": "Enterprise AI for regulated industries, fintech background"
+    },
+    {
+      "name": "Mistral AI",
+      "series": "C",
+      "valuation": "$11.7B",
+      "careers_url": "https://mistral.ai/careers",
+      "job_board": "https://jobs.lever.co/mistral",
+      "open_roles": 29,
+      "focus": "Open-weight AI models (Europe)",
+      "priority": "medium",
+      "match_reason": "Enterprise AE roles in multiple regions"
+    },
+    {
+      "name": "Together AI",
+      "series": "B",
+      "valuation": "$3.3B",
+      "careers_url": "https://job-boards.greenhouse.io/togetherai",
+      "job_board": "https://job-boards.greenhouse.io/togetherai",
+      "open_roles": 31,
+      "focus": "Open-source model hosting",
+      "priority": "medium",
+      "match_reason": "AI infrastructure, startup phase GTM"
+    },
+    {
+      "name": "Fireworks AI",
+      "series": "C",
+      "valuation": "$4B",
+      "careers_url": "https://fireworks.ai/careers",
+      "job_board": "https://job-boards.greenhouse.io/fireworksai",
+      "open_roles": 24,
+      "focus": "Fast inference, enterprise AI",
+      "priority": "high",
+      "match_reason": "Partner Sales Manager role, enterprise solutions"
+    },
+    {
+      "name": "Supabase",
+      "series": "D",
+      "valuation": "$5B",
+      "careers_url": "https://supabase.com/careers",
+      "job_board": "https://jobs.ashbyhq.com/supabase",
+      "open_roles": 31,
+      "focus": "Open-source Firebase alternative",
+      "priority": "medium",
+      "match_reason": "Developer platform, APAC sales lead role open"
+    },
+    {
+      "name": "Glean",
+      "series": "F",
+      "valuation": "$7.2B",
+      "careers_url": "https://www.glean.com/careers",
+      "job_board": "https://job-boards.greenhouse.io/gleanwork",
+      "open_roles": 145,
+      "focus": "Enterprise AI search",
+      "priority": "high",
+      "match_reason": "Enterprise sales, RVP roles open"
+    },
+    {
+      "name": "Hugging Face",
+      "series": "D",
+      "valuation": "$4.5B",
+      "careers_url": "https://apply.workable.com/huggingface/",
+      "job_board": "https://apply.workable.com/huggingface/",
+      "open_roles": 20,
+      "focus": "Open-source AI hub",
+      "priority": "medium",
+      "match_reason": "AI ecosystem, developer relations"
+    },
+    {
+      "name": "Runway",
+      "series": "C",
+      "valuation": "$4B",
+      "careers_url": "https://runwayml.com/careers",
+      "job_board": "https://job-boards.greenhouse.io/runwayml",
+      "open_roles": 22,
+      "focus": "AI video generation",
+      "priority": "medium",
+      "match_reason": "Creative AI, enterprise expansion"
+    },
+    {
+      "name": "ElevenLabs",
+      "series": "C",
+      "valuation": "$6.6B",
+      "careers_url": "https://elevenlabs.io/careers",
+      "job_board": "https://jobs.ashbyhq.com/elevenlabs/",
+      "open_roles": 45,
+      "focus": "Voice AI, dubbing",
+      "priority": "medium",
+      "match_reason": "Rapid growth, global expansion"
+    },
+    {
+      "name": "OpenAI",
+      "series": "Late",
+      "valuation": "$500B",
+      "careers_url": "https://openai.com/careers",
+      "job_board": "https://openai.com/careers",
+      "open_roles": 100,
+      "focus": "GPT, ChatGPT, foundation models",
+      "priority": "high",
+      "match_reason": "Built on GPT-4, direct product experience"
+    },
+    {
+      "name": "xAI",
+      "series": "D",
+      "valuation": "$200B",
+      "careers_url": "https://x.ai/careers",
+      "job_board": "https://x.ai/careers",
+      "open_roles": 50,
+      "focus": "Grok, real-time AI",
+      "priority": "medium",
+      "match_reason": "Emerging AI player, rapid scaling"
+    },
+    {
+      "name": "Groq",
+      "series": "D",
+      "valuation": "$2.8B",
+      "careers_url": "https://groq.com/careers",
+      "job_board": "https://groq.com/careers",
+      "open_roles": 30,
+      "focus": "LPU chips, ultra-low latency inference",
+      "priority": "medium",
+      "match_reason": "AI infrastructure, hardware + software GTM"
+    },
+    {
+      "name": "Baseten",
+      "series": "D",
+      "valuation": "$2.2B",
+      "careers_url": "https://www.baseten.co/careers",
+      "job_board": "https://www.baseten.co/careers",
+      "open_roles": 20,
+      "focus": "AI inference infrastructure",
+      "priority": "medium",
+      "match_reason": "Developer tools, enterprise AI"
+    },
+    {
+      "name": "Harvey",
+      "series": "E",
+      "valuation": "$5B",
+      "careers_url": "https://www.harvey.ai/careers",
+      "job_board": "https://www.harvey.ai/careers",
+      "open_roles": 40,
+      "focus": "Legal AI",
+      "priority": "medium",
+      "match_reason": "Vertical AI for regulated industries"
+    }
+  ],
+  "total_companies": 20,
+  "total_open_roles": 1400
+}
