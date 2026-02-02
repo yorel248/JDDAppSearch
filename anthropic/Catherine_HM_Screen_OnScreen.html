@@ -47,60 +47,61 @@
     <span class="say">"Thanks for taking the time, Catherine. I saw you were at Google as well — I was there 2013-2017 building Analytics across ANZ and APAC. Looking forward to the conversation."</span>
     <p>Then <b>stop</b>. Let her set the agenda.</p>
     <div class="followups">
-      <b>If "Tell me about yourself" (60 sec):</b> Four chapters — 1/ Google: 3→110 deals, 46% APAC. 2/ AWS: $75M Gojek EDP. 3/ CT Corp: digital transformation, 200-person team. 4/ Ringkas: 32 banks, $700M, $11.5M raised. Thread: "building from zero in new markets."
+      <b>If "Tell me about yourself" (60 sec):</b> Four chapters — 1/ Google: first on the ground for GA360 in AU, 3→110 deals, 46% APAC, displaced Adobe. 2/ AWS: Head of Digital Natives SEA, $75M Gojek EDP, ML workloads (fraud detection, demand forecasting via SageMaker). 3/ CT Corp: President Director, digital transformation across retail/media/banking, 200-person team. 4/ Ringkas: co-founded AI mortgage platform, Claude via Vertex AI for credit analysis, multi-agent architecture (LangGraph), 32 banks, $700M origination, $11.5M raised. Thread: "building from zero in new markets — and now I've built on Claude."
     </div>
   </div>
 
   <div class="card deal">
     <h2>Q1: DEAL — $75M Gojek (2:15)</h2>
-    <p><b>Situation:</b> Gojek on GCP. Most competitive deal in SEA.</p>
+    <p><b>Situation:</b> Gojek — Indonesia's largest super-app (ride-hailing, payments, food delivery, 20M+ rides/day). Running entirely on GCP. Most competitive deal in SEA.</p>
     <p><b>Three things:</b></p>
-    <p>1/ <b>Wedge</b> — CFO wanted cost certainty. ML workloads (SageMaker &gt; GCP). 4-week POC.</p>
-    <p>2/ <b>Structure</b> — 5-year EDP. CFO gets predictability. Eng gets flexibility.</p>
-    <p>3/ <b>De-risk</b> — Start ML on AWS, keep core on GCP. No all-or-nothing.</p>
-    <p><b>Result:</b> <span class="num">$75M EDP</span>. Largest in APAC. Grew to $50M P&L.</p>
+    <p>1/ <b>Wedge</b> — CFO wanted cost certainty at their growth rate. ML workloads where SageMaker beat GCP: <b>fraud detection</b> (real-time payment screening), <b>demand forecasting</b> (driver allocation), <b>dynamic pricing</b>. Brought in AWS ML specialists for 4-week POC on fraud model.</p>
+    <p>2/ <b>Structure</b> — 5-year EDP with committed spend. CFO gets cost predictability; eng gets flexibility to shift workloads (EC2/SageMaker/S3). Addressed both stakeholders simultaneously.</p>
+    <p>3/ <b>De-risk</b> — Start ML workloads on AWS, keep core infra on GCP. Removed the all-or-nothing fear. Proved value before broader migration.</p>
+    <p><b>Result:</b> <span class="num">$75M EDP</span>. Largest multi-year deal in APAC. Gojek became reference customer. Grew to $50M P&L.</p>
+    <p style="font-size:10pt; color:#2e7d32; margin-top:4px"><b>→ Anthropic parallel:</b> Same motion — find the AI workload (doc processing, customer service, code review), run bounded POC, prove ROI, convert to committed spend.</p>
     <div class="followups">
-      <b>Champion?</b> VP Eng, ML team. <b>Cycle?</b> 9 months. <b>Objection?</b> Eng loyalty to GCP — didn't fight it, found AWS strengths. <b>Stakeholders?</b> CTO/CFO/VP Eng/procurement — separate value props, sequenced.
+      <b>Champion?</b> VP Eng, ML team — gave him benchmark data to sell internally. <b>Cycle?</b> 9 months. <b>Objection?</b> Eng loyalty to GCP — didn't fight it, found workloads where AWS was stronger, started there. <b>Stakeholders?</b> CTO (technical capability) / CFO (cost predictability) / VP Eng (team productivity) / procurement — separate value props, sequenced. <b>Why SageMaker won?</b> Managed notebooks, built-in model monitoring, lower inference cost at scale vs GCP AI Platform.
     </div>
   </div>
 
   <div class="card build">
     <h2>Q2: BUILD — Google ANZ→APAC (2:15)</h2>
-    <p><b>Situation:</b> 2014. 3 accounts AU. Zero resellers. Adobe 5yr head start.</p>
+    <p><b>Situation:</b> 2014. GA360 had 3 direct accounts in AU. Zero resellers. Adobe Analytics (Omniture) had 5+ year head start.</p>
     <p><b>Lighthouse strategy, three steps:</b></p>
-    <p>1/ <b>Win logos</b> — Telstra, Westpac, Fairfax. Sold Westpac <span class="num">week 1</span>. TCO: 40% cheaper.</p>
-    <p>2/ <b>Channel</b> — <span class="num">21 resellers</span> from zero. AU/NZ/SEA/India.</p>
-    <p>3/ <b>Replicate</b> — Singapore. India: <span class="num">0→31 clients</span> in &lt;1 year.</p>
-    <p><b>Result:</b> <span class="num">110 deals, 46% of APAC</span>. 101-108% quota. $4B portfolio.</p>
-    <p style="margin-top:8px"><b>BRIDGE:</b></p>
-    <span class="say">"CommBank is your lighthouse. I'd open Westpac, NAB, ANZ. Then one healthcare, one manufacturing. Three logos unlock the market."</span>
+    <p>1/ <b>Win logos</b> — Telstra (cross-channel attribution), Westpac (digital banking analytics), Fairfax (audience monetisation). Sold Westpac <span class="num">week 1</span>. TCO model: GA360+BigQuery 40% cheaper than Adobe+separate DWH over 3 years. "Every conversation after started with 'Westpac is already using this.'"</p>
+    <p>2/ <b>Channel</b> — <span class="num">21 resellers</span> from zero. AU/NZ/SEA/India. Trained on competitive selling — one partner closed 5 deals independently.</p>
+    <p>3/ <b>Replicate</b> — Relocated to Singapore. India: <span class="num">0→31 clients</span> in &lt;1 year. HDFC/Axis/ICICI banks — timed Adobe renewals.</p>
+    <p><b>Result:</b> <span class="num">110 deals, 46% of APAC</span>. 101-108% quota every quarter. $4B portfolio. Promoted to Sales Manager II.</p>
+    <p style="margin-top:8px"><b>BRIDGE TO ANTHROPIC:</b></p>
+    <span class="say">"CommBank is your lighthouse — CBA cut scam losses 50% with Claude, CTO Castillo called it 'foundational.' I'd open Westpac, NAB, ANZ with similar use cases. Then one healthcare (clinical notes, claims), one manufacturing (quality inspection, supply chain). Three logos unlock the market."</span>
     <div class="followups">
-      <b>Prioritise?</b> Three criteria: logo value + speed to close (renewal/POC timing) + AI readiness (already on Vertex/Bedrock or board AI mandate = shorter cycle). <b>Traction?</b> Westpac wk1, 10 deals in 3mo, inflection at 6mo. <b>First 30 days?</b> Map 50 accounts, find OpenAI pilots + renewal timing, deep-dive CommBank story. <b>3 AE roles?</b> Align segmentation early, weekly pipeline reviews, shared account map.
+      <b>Prioritise?</b> Three criteria: logo value + speed to close (renewal/POC timing) + AI readiness (already on Vertex/Bedrock or board AI mandate = shorter cycle). <b>Traction?</b> Westpac wk1, 10 deals in 3mo, inflection at 6mo. <b>First 30 days?</b> Map 50 accounts, find OpenAI pilots + renewal timing, deep-dive CommBank story. <b>3 AE roles?</b> Align segmentation early, weekly pipeline reviews, shared account map. <b>Industry use cases:</b> Banking = fraud/compliance/document processing. Healthcare = clinical summaries/prior auth. Manufacturing = quality reports/maintenance logs.
     </div>
   </div>
 
   <div class="card why">
     <h2>Q3: WHY ANTHROPIC (60 sec)</h2>
-    <p>1/ <b>Built on Claude</b> — evaluated all models for credit analysis. Claude won on reasoning.</p>
-    <p>2/ <b>Founding AE</b> — built from zero 3 times. Want to build, not maintain.</p>
-    <p>3/ <b>Timing</b> — enterprise AI in AU is early. Want to write the playbook.</p>
+    <p>1/ <b>Built on Claude</b> — Ringkas runs Claude via Vertex AI. Use cases: credit analysis, KYC document extraction, mortgage eligibility scoring. Multi-agent architecture (LangGraph). Evaluated GPT-4, Gemini — Claude won on structured reasoning, lower hallucination rate, handling ambiguity in financial docs.</p>
+    <p>2/ <b>Founding AE</b> — built from zero 3 times (Google ANZ, AWS SEA, Ringkas). Don't want a comfortable territory; want to build.</p>
+    <p>3/ <b>Timing</b> — AU per-capita Claude usage already outpaces the US. Enterprise AI adoption in AU is early. The playbook is being written now — I want to help write it.</p>
   </div>
 
   <div class="card why">
     <h2>Q3b: WHY LEAVE RINGKAS (60 sec)</h2>
-    <p>Stable: <span class="num">$11.5M raised, 32 banks, $700M</span>. Strong team. ME expansion with local leadership.</p>
-    <p>"Built what I set out to build." Sydney for family.</p>
+    <p>Stable: <span class="num">$11.5M raised, 32 banks, $700M</span>. Strong management team running operations. Expanding to Saudi Arabia (Roshn/PIF partnership, 400K homes) with local leadership.</p>
+    <p>"Built what I set out to build — proved AI can transform mortgage lending in SEA." Sydney for family (daughter starting school, parents).</p>
     <p>"Founding position, building from scratch, in AI, in a market I know."</p>
     <div class="followups">
-      <b>Structure?</b> Built structure at Ringkas (OKRs, reviews). Thrived at Google/AWS. Don't need to be CEO.
+      <b>Structure?</b> Built structure at Ringkas (OKRs, reporting lines, performance reviews 2x/year). Thrived at Google and AWS — highly structured. Don't need to be CEO. <b>Still involved?</b> Board advisory, not operational. Clean transition.
     </div>
   </div>
 
   <div class="card wild">
     <h2>Q4: WILDCARDS (90 sec each)</h2>
-    <p><b>Consumption:</b> AWS EDP = committed spend + usage flex. Ringkas = per mortgage, not per API call. "Buyers don't buy tokens — they buy outcomes." Bounded use cases → committed spend → expand.</p>
-    <p><b>Competitive win:</b> India banks HDFC/Axis/ICICI — all on Adobe. Timed renewals, TCO 40% cheaper, POCs. Won 3/3. "First globally." Same for displacing OpenAI.</p>
-    <p><b>Failure:</b> CT Corp e-commerce vs Tokopedia/Shopee. Underestimated capital. Pivoted to omnichannel. "Don't fight incumbents on their strength." Applied at Ringkas.</p>
+    <p><b>Consumption:</b> Sold consumption at AWS (EDP = committed spend + usage flexibility) and Ringkas (per mortgage originated, not per API call). "Enterprise buyers don't buy tokens — they buy outcomes." Land with bounded use cases: document processing (predictable volume), customer service automation (measurable deflection), code review (developer productivity). Prove ROI → committed spend → expand. Pricing: input cheap ($3/M Sonnet), output expensive ($15/M). Optimise via prompt caching (90% off repeated context) and model routing (Haiku for simple, Opus for complex = 60-70% cost reduction). Bedrock/Vertex removes procurement friction — bill through existing cloud spend.</p>
+    <p><b>Competitive win:</b> India banks HDFC/Axis/ICICI — all locked into Adobe Analytics (Omniture). Timed approach to contract renewals. Built TCO case: GA360+BigQuery 40% cheaper. Ran POCs on cross-channel attribution during evaluation window. Won 3/3. Performance review: "First globally where we've locked down banking." Playbook adopted across APAC. → Same for displacing OpenAI: find the pain (reasoning quality, hallucination rate, data governance), run head-to-head POC on their specific use case, prove it.</p>
+    <p><b>Failure:</b> CT Corp e-commerce vs Tokopedia/Shopee. Built platform, integrated 100+ stores. Underestimated capital — Tokopedia/Shopee burning $100M+/yr on acquisition. Pivoted to omnichannel (click-and-collect, same-day delivery from Transmart stores) which played to our retail footprint. Lesson: "Don't fight incumbents on their strength — find adjacent value." Applied at Ringkas: embedded in banks instead of competing with them.</p>
   </div>
 
   <div class="card qs">
@@ -119,8 +120,12 @@
 </div>
 
 <div class="numbers">
-  <h2>KEY NUMBERS</h2>
+  <h2>MY NUMBERS</h2>
   <p><span class="num">$75M</span> Gojek EDP &nbsp;|&nbsp; <span class="num">110</span> deals Google &nbsp;|&nbsp; <span class="num">46%</span> of APAC &nbsp;|&nbsp; <span class="num">$4B</span> portfolio &nbsp;|&nbsp; <span class="num">32</span> banks &nbsp;|&nbsp; <span class="num">$700M</span> origination &nbsp;|&nbsp; <span class="num">$11.5M</span> raised &nbsp;|&nbsp; <span class="num">21</span> resellers &nbsp;|&nbsp; <span class="num">31</span> India clients &nbsp;|&nbsp; <span class="num">200</span> person team &nbsp;|&nbsp; <span class="num">9</span> month cycle &nbsp;|&nbsp; <span class="num">101-108%</span> quota</p>
+  <h2 style="margin-top:8px">ANTHROPIC NUMBERS (if needed)</h2>
+  <p><span class="num">$5B+</span> run-rate (Aug '25) → <span class="num">$18B</span> forecast '26 &nbsp;|&nbsp; <span class="num">300K+</span> enterprise customers &nbsp;|&nbsp; <span class="num">80%</span> usage outside US &nbsp;|&nbsp; CommBank: <span class="num">50%</span> scam reduction &nbsp;|&nbsp; Claude for FinServ: FactSet, S&P, Morningstar, Snowflake &nbsp;|&nbsp; AU per-capita usage &gt; US &nbsp;|&nbsp; Tripling international headcount</p>
+  <h2 style="margin-top:8px">PRICING (if consumption Q comes up)</h2>
+  <p>Haiku <span class="num">$1/$5</span> per MTok &nbsp;|&nbsp; Sonnet <span class="num">$3/$15</span> &nbsp;|&nbsp; Opus <span class="num">$5/$25</span> &nbsp;|&nbsp; Prompt caching <span class="num">90%</span> off &nbsp;|&nbsp; Batch API <span class="num">50%</span> off &nbsp;|&nbsp; Channels: API direct, Claude Enterprise (annual), Bedrock/Vertex (existing cloud spend)</p>
 </div>
 
 <div class="avoid">

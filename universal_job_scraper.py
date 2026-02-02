@@ -6,6 +6,7 @@ Universal Job Scraper
 - Configurable via JSON targets file
 - Handles various pagination patterns
 """
+from __future__ import annotations
 
 import asyncio
 import json
