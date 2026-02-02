@@ -93,7 +93,7 @@ Say this immediately after the result — it connects the story to why it matter
 
 ### Follow-Ups
 
-If she asks "How did you prioritise which accounts to go after first?" — "Two criteria: logo value and speed to close. Westpac was the biggest brand in banking and they had an Adobe contract coming up for renewal. I timed the approach to their evaluation window. Logo value gets you the reference story; speed gets you the momentum."
+If she asks "How did you prioritise which accounts to go after first?" — "Three criteria: logo value, speed to close, and AI readiness. Logo value — Westpac was the biggest brand in banking; winning them meant every other conversation started with 'Westpac is already using this.' Speed to close — they had an Adobe contract coming up for renewal, so I timed the approach to their evaluation window; a POC during a renewal cycle converts faster than a cold start. AI readiness — for Anthropic I'd add a third filter: which accounts are already running on Vertex AI or Bedrock, or have an AI transformation mandate from the board. Those organisations have the infrastructure and the budget intent; you're not selling AI adoption, you're selling a better model. Logo value gets you the reference story; speed gets you the momentum; AI readiness gets you a shorter sales cycle."
 
 If she asks "How long before you had traction?" — "First deal closed in week one (Westpac). First 10 deals within 3 months. The real inflection was at 6 months when we had enough lighthouse logos that inbound started coming in. The channel partners accelerated it further."
 
