@@ -26,7 +26,7 @@
 
 **Action:**
 1. **Mapped the org** — CTO, CFO, VP Engineering, procurement. Identified that engineering loved GCP but CFO was concerned about cost predictability at their growth rate.
-2. **Found the wedge** — ML workloads. Gojek was investing heavily in fraud detection and demand forecasting. SageMaker was materially better than GCP's ML tools at the time. I brought in AWS ML specialists to run a 4-week proof-of-concept.
+2. **Found the pain point** — ML workloads. Gojek was investing heavily in fraud detection and demand forecasting. SageMaker was materially better than GCP's ML tools at the time. I brought in AWS ML specialists to run a 4-week proof-of-concept.
 3. **Structured for the CFO** — Designed a 5-year EDP with committed spend that gave cost certainty at scale, with flexibility to shift workloads. This addressed the CFO's concern directly.
 4. **De-risked migration** — Proposed a hybrid approach. Start ML workloads on AWS, keep core infrastructure on GCP initially. Reduced the "all-or-nothing" fear.
 

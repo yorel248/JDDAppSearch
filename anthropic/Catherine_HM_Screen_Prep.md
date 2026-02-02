@@ -55,7 +55,7 @@ She'll ask something along the lines of "Walk me through a complex deal" or "Tel
 
 Gojek — Indonesia's largest super-app, ride-hailing, payments, food delivery — was running entirely on GCP. AWS wanted the account and it was the most competitive deal in Southeast Asia. I was 6 months into the role and this was the anchor deal for the country.
 
-What I did — three things. 1/ Found the wedge. Engineering loved GCP, but the CFO was concerned about cost predictability at their growth rate. I identified that ML workloads (fraud detection, demand forecasting) were where SageMaker was materially better than GCP's tooling. I brought in AWS ML specialists to run a 4-week proof-of-concept. 2/ Structured for the buyer. I designed a 5-year enterprise discount program with committed spend that gave the CFO cost certainty; engineering got flexibility to shift workloads underneath. The EDP addressed both stakeholders simultaneously. 3/ De-risked the decision. Instead of asking them to migrate everything, I proposed starting ML workloads on AWS while keeping core infrastructure on GCP — removed the all-or-nothing fear.
+What I did — three things. 1/ Found the pain point. Engineering loved GCP, but the CFO was concerned about cost predictability at their growth rate. I identified that ML workloads (fraud detection, demand forecasting) were where SageMaker was materially better than GCP's tooling. I brought in AWS ML specialists to run a 4-week proof-of-concept. 2/ Structured for the buyer. I designed a 5-year enterprise discount program with committed spend that gave the CFO cost certainty; engineering got flexibility to shift workloads underneath. The EDP addressed both stakeholders simultaneously. 3/ De-risked the decision. Instead of asking them to migrate everything, I proposed starting ML workloads on AWS while keeping core infrastructure on GCP — removed the all-or-nothing fear.
 
 Result: $75M five-year EDP, largest multi-year deal in APAC. Gojek became a reference customer and the account grew to $50M P&L under my management."
 
@@ -207,7 +207,7 @@ Keep on screen or print — key numbers and answer headlines:
 
 Opener: "Thanks for taking the time, Catherine. Google overlap. Looking forward."
 
-Deal: $75M Gojek EDP. Wedge = SageMaker ML. CFO = cost certainty. De-risked = hybrid approach. 9 months cycle. VP Eng champion.
+Deal: $75M Gojek EDP. Pain point = SageMaker ML. CFO = cost certainty. De-risked = hybrid approach. 9 months cycle. VP Eng champion.
 
 Build: Google ANZ to APAC. 3 accounts to 110 deals, 46% of APAC. Lighthouse strategy (Westpac in week 1) then channel (21 resellers) then replicate. Bridge: "CommBank is your lighthouse. I'd open Westpac, NAB, ANZ."
 
